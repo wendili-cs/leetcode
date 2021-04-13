@@ -2,30 +2,32 @@
 
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        bool flag = false; // 找到第一个完全无交集的右边的段为止
-        int left_val = newInterval[0], right_val = newInterval[1];
-        vector<vector<int> > res;
-        for(const auto& interval:intervals){ // 插入段左边的内容
-            if(interval[1] < newInterval[0]){
-                res.push_back(interval);
-            }
-            else if(interval[0] > newInterval[1]){ // 插入段右边的
-                if(!flag){
-                    res.push_back({left_val, right_val});
-                    flag = true;
-                }
-                res.push_back(interval);
-            }
-            else{
-                left_val = min(left_val, interval[0]);
-                right_val = max(right_val, interval[1]);
-            }
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        if(intervals.size()==0){
+            return {};
         }
-        if(!flag){ // 在范围之外
-            res.push_back({left_val, right_val});
+        else if(intervals.size()==1){
+            return intervals;
         }
 
-        return res;
+        vector<vector<int> > ans;
+        sort(intervals.begin(), intervals.end());
+
+        auto merge_interval = [](vector<int> &interval_a, vector<int> &interval_b) -> vector<int> {
+            return {min(interval_a[0], interval_b[0]), max(interval_a[1], interval_b[1])};
+        };
+
+        auto merging_interval = intervals[0];
+        for(int i = 1; i < intervals.size(); i++){
+            if(intervals[i][0] > merging_interval[1]){
+                ans.push_back(merging_interval);
+                merging_interval = intervals[i];
+            }
+            else{
+                merging_interval = merge_interval(intervals[i], merging_interval);
+            }
+        }
+        ans.push_back(merging_interval);
+        return ans;
     }
 };
