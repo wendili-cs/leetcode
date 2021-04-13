@@ -1,7 +1,5 @@
 # 这是Wendi写C++的Cheat Sheet
 
-[toc]
-
 ## 1. for循环相关
 ### 迭代器
 
