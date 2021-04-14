@@ -11,10 +11,10 @@ public:
                 res.push_back(temp_list);
                 return;
             }
+            dfs(idx + 1);
             temp_list.push_back(nums[idx]);
             dfs(idx + 1);
             temp_list.pop_back();
-            dfs(idx + 1);
         };
         
         dfs(0);
