@@ -52,7 +52,7 @@ int main(void)
 ### lambda函数
 相关链接：https://www.cnblogs.com/jimodetiantang/p/9016826.html
 
-lambda的语法形式：
+#### lambda的语法形式：
 ```
 [函数对象参数] (操作符重载函数参数) mutable 或 exception 声明 -> 返回值类型 {函数体}
 ```
@@ -95,6 +95,7 @@ After f2, x: 23
 f4:56
 ```
 
+#### 捕获lambda函数
 Lambda 函数是一个依赖于实现的函数对象类型,这个类型的名字只有编译器知道. 如果用户想把 lambda 函数做为一个参数来传递, 那么形参的类型必须是模板类型或者必须能创建一个 std::function 类似的对象去捕获 lambda 函数.使用 auto 关键字可以帮助存储 lambda 函数,
 
 ```c++
@@ -118,6 +119,18 @@ int main() {
 	}
 	system("pause");
 }
+```
+
+#### lambda函数用于递归
+两种方式：
+1. 引入self
+```c++
+auto factorial = [](auto&& self, int n) -> int { return n < 2 ? 1 : n * self(self, n - 1); };
+```
+2. 先声明再赋值
+```c++
+std::function<int(int)> factorial;
+factorial = [&factorial](int n) { return n < 2 ? 1 : n * factorial(n - 1); }；
 ```
 
 ### min_element、max_element函数
