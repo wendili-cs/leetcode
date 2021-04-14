@@ -119,3 +119,15 @@ int main() {
 	system("pause");
 }
 ```
+
+### min_element、max_element函数
+
+```c++
+int main()
+{
+	vector<int>v = { 1,5,8,2,4,6,7,3 };
+	cout << *min_element(v.begin(), v.end()) << endl;
+	cout << *max_element(v.begin(), v.end()) << endl;
+	system("pause");
+}
+```
