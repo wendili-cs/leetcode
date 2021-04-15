@@ -29,6 +29,16 @@ int main()
 }
 ```
 
+### vector初始化
+链接：https://www.jianshu.com/p/d058866e0e10
+
+1. `1.vector<int> list1; // 默认初始化，最常用`
+2. `vector<int> list2(list);` or `vector<int> ilist2 = ilist;`
+3. `vector<int> list = {1,2,3};`
+4. `vector<int> list3(list.begin()+2, list.end()-1);`
+5. `vector<int> ilist4(7); // 定义其长度为7`
+6. `vector<int> ilist5(7,3); // 定义其长度为7，初始值为3`
+
 ## 4. C++关键字
 ### decltype
 相关链接：https://www.cnblogs.com/cauchy007/p/4966485.html
@@ -144,3 +154,94 @@ int main()
 	system("pause");
 }
 ```
+
+## 6. 一些属性、结构体
+### 最大值
+内置最大值的宏定义：https://blog.csdn.net/caroline_wendy/article/details/24311895
+
+### pair函数
+链接：https://blog.csdn.net/sevenjoin/article/details/81937695
+
+pair是将2个数据组合成一组数据，其标准库类型--pair类型定义在#include <utility>头文件中，定义如下：
+
+类模板：`template<class T1,class T2> struct pair`
+
+参数：T1是第一个值的数据类型，T2是第二个值的数据类型。
+
+```c++
+pair<T1, T2> p1; //创建一个空的pair对象（使用默认构造），它的两个元素分别是T1和T2类型，采用值初始化。
+pair<T1, T2> p1(v1, v2); //创建一个pair对象，它的两个元素分别是T1和T2类型，其中first成员初始化为v1，second成员初始化为v2。
+make_pair(v1, v2); // 以v1和v2的值创建一个新的pair对象，其元素类型分别是v1和v2的类型。
+p1 < p2; // 两个pair对象间的小于运算，其定义遵循字典次序：如 p1.first < p2.first 或者 !(p2.first < p1.first) && (p1.second < p2.second) 则返回true。
+p1 == p2; // 如果两个对象的first和second依次相等，则这两个对象相等；该运算使用元素的==操作符。
+p1.first; // 返回对象p1中名为first的公有数据成员
+p1.second; // 返回对象p1中名为second的公有数据成员
+```
+
+### queue相关
+#### priority_queue优先队列
+链接：https://blog.csdn.net/weixin_36888577/article/details/79937886
+
+```c++
+int main()
+{
+	// 对于基础类型 默认是大顶堆
+	priority_queue<int> a;
+	// 等同于 priority_queue<int, vector<int>, less<int> > a;
+	priority_queue<int, vector<int>, greater<int> > c;  // 这样就是小顶堆
+	priority_queue<string> b;
+
+	for (int i = 0; i < 5; i++){
+		a.push(i);
+		c.push(i);
+	}
+	while (!a.empty()){
+		cout << a.top() << ' ';
+		a.pop();
+	}
+	cout << endl;
+
+	while (!c.empty()){
+		cout << c.top() << ' ';
+		c.pop();
+	}
+	cout << endl;
+
+	b.push("abc");
+	b.push("abcd");
+	b.push("cbd");
+	while (!b.empty()){
+		cout << b.top() << ' ';
+		b.pop();
+	}
+	cout << endl;
+	system("pause");
+}
+```
+
+输出：
+```
+4 3 2 1 0
+0 1 2 3 4
+cbd abcd abc
+```
+
+### lower_bound函数
+`lower_bound()` 函数用于在指定区域内查找不小于目标值的第一个元素。也就是说，使用该函数在指定范围内查找某个目标值时，最终查找到的不一定是和目标值相等的元素，还可能是比目标值大的元素。
+```c++
+int main()
+{
+	int a[5] = { 1,2,4,3,5 };
+	//从 a 数组中找到第一个不小于 3 的元素
+	int *p = lower_bound(a, a + 5, 3);
+	cout << "*p = " << *p << endl;
+}
+```
+
+### &运算
+
+链接：https://blog.csdn.net/weixin_45774972/article/details/115013711
+
+* `n&1`：判断`n`是否为奇数。因为n为奇数时，对应的二进制数最低位一定为1，n&1的结果就是1；n为偶数时，相应的最低位为0，n&1的结果就是0。
+* `1&n`：检查二进制`n`的最低位，若为1，则1&n的结果就是1；若不为1，则1&n的结果就是0。
+
