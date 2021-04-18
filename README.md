@@ -14,5 +14,5 @@ This is the leetcode code track of Wendi.
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|DP
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
-|0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/) | `priority_queue`, yyds
+|0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/) | `priority_queue` (yyds), hash
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert <- (normal) or heap <- (ingenious!)
