@@ -19,14 +19,25 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
+
+bool cmp(const int& num1, const int& num2) {
+	return num1 > num2;
+}
+
 int main()
 {
     vector<int> v{ 1, 5, 8, 9, 6, 7, 3, 4, 2, 0 };
     sort(v.begin(), v.end());
+	// sort(v.begin(), v.end(), cmp); // 如果用这个则是降序排列
     cout << "Sorted \n";
     for (auto x : v)
         cout << x << " ";
 }
+```
+输出：
+```
+Sorted
+0 1 2 3 4 5 6 7 8 9
 ```
 
 ### vector初始化
