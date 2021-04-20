@@ -7,6 +7,7 @@ This is the leetcode code track of Wendi.
 | # | Title | Comment |
 |---| ----- | ------- |
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|hash
+|0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)|C++ pointer
 |0004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|dichotomy
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
@@ -14,10 +15,13 @@ This is the leetcode code track of Wendi.
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)
+|0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
+|0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
+|0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|C++ pointer
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
