@@ -8,7 +8,9 @@ This is the leetcode code track of Wendi.
 |---| ----- | ------- |
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|hash
 |0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)|C++ pointer
+|0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|set, rolling
 |0004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|dichotomy
+|0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|overflow detection
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer

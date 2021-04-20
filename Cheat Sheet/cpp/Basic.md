@@ -11,6 +11,52 @@
 ### unordered_map
 相关链接：http://c.biancheng.net/view/7231.html
 
+示例：
+```c++
+int main() {
+	string s = "abcabcbb";
+	unordered_map<char, int> dict;
+	for (const auto& word : s) {
+		auto iter = dict.find(word);
+		if (iter != dict.end()) {
+			iter->second += 1;
+		}
+		else {
+			dict.emplace(word, 0);
+		}
+	}
+	for (auto iter = dict.begin(); iter != dict.end(); iter++) {
+		cout << iter->first << " " << iter->second;
+		cout << endl;
+	}
+}
+```
+
+
+### unordered_set
+相关链接：
+* http://c.biancheng.net/view/7250.html
+* https://blog.csdn.net/zhang14916/article/details/100859487
+
+示例：
+```c++
+int main() {
+	string s = "abcabcbb";
+	unordered_set<char> uset;
+	for (const auto& word : s) {
+		auto iter = uset.find(word);
+		if (iter == uset.end()) {
+			uset.emplace(word);
+		}
+	}
+	uset.erase('a');
+	for (auto iter = uset.begin(); iter != uset.end(); iter++) {
+		cout << *iter << endl;
+	}
+	cout << uset.size() << endl;
+}
+```
+
 ## 3. vector相关
 ### 排序sort
 
