@@ -19,6 +19,7 @@ This is the leetcode code track of Wendi.
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
-|0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
+|0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
+|0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
