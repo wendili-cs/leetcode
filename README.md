@@ -15,6 +15,7 @@ This is the leetcode code track of Wendi.
 |0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|overflow detection
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
+|0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap
@@ -22,6 +23,7 @@ This is the leetcode code track of Wendi.
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
+|0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
@@ -35,4 +37,5 @@ This is the leetcode code track of Wendi.
 ### SQL
 | # | Title | Comment |
 |---| ----- | ------- |
-|0175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/)|---
+|0175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/)|`OUTER JOIN`
+|0176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/)|nested `MAX`

@@ -235,7 +235,7 @@ p1.first; // 返回对象p1中名为first的公有数据成员
 p1.second; // 返回对象p1中名为second的公有数据成员
 ```
 
-### queue相关
+### 堆栈队列相关
 #### priority_queue优先队列
 链接：https://blog.csdn.net/weixin_36888577/article/details/79937886
 
@@ -282,6 +282,18 @@ int main()
 0 1 2 3 4
 cbd abcd abc
 ```
+
+#### stack栈
+相关链接：http://c.biancheng.net/view/478.html
+和其他序列容器相比，stack 是一类存储机制简单、所提供操作较少的容器。下面是 stack 容器可以提供的一套完整操作：
+* top()：返回一个栈顶元素的引用，类型为 T&。如果栈为空，返回值未定义。
+* push(const T& obj)：可以将对象副本压入栈顶。这是通过调用底层容器的 push_back() 函数完成的。
+* push(T&& obj)：以移动对象的方式将对象压入栈顶。这是通过调用底层容器的有右值引用参数的 push_back() 函数完成的。
+* pop()：弹出栈顶元素。
+* size()：返回栈中元素的个数。
+* empty()：在栈中没有元素的情况下返回 true。
+* emplace()：用传入的参数调用构造函数，在栈顶生成对象。
+* swap(stack<T> & other_stack)：将当前栈中的元素和参数中的元素交换。参数所包含元素的类型必须和当前栈的相同。对于 stack 对象有一个特例化的全局函数 swap() 可以使用。
 
 ### lower_bound函数
 `lower_bound()` 函数用于在指定区域内查找不小于目标值的第一个元素。也就是说，使用该函数在指定范围内查找某个目标值时，最终查找到的不一定是和目标值相等的元素，还可能是比目标值大的元素。
