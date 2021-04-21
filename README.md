@@ -4,12 +4,14 @@ This is the leetcode code track of Wendi.
 
 ## Records
 
+### Algorithms
 | # | Title | Comment |
 |---| ----- | ------- |
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|hash
 |0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)|C++ pointer
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|set, rolling
 |0004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|dichotomy
+|0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)|DP (for循环顺序很重要)
 |0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|overflow detection
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
@@ -29,3 +31,8 @@ This is the leetcode code track of Wendi.
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
+
+### SQL
+| # | Title | Comment |
+|---| ----- | ------- |
+|0175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/)|---
