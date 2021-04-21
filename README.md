@@ -20,6 +20,7 @@ This is the leetcode code track of Wendi.
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)
+|0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
