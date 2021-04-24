@@ -13,6 +13,7 @@ This is the leetcode code track of Wendi.
 |0004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|dichotomy
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)|DP (for循环顺序很重要)
 |0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|overflow detection
+|0010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)|regular expression (ingenious), string
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
 |0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|string
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
@@ -30,10 +31,12 @@ This is the leetcode code track of Wendi.
 |0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
+|0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
+|0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
@@ -46,6 +49,11 @@ This is the leetcode code track of Wendi.
 | # | Title | Comment |
 |---| ----- | ------- |
 |0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash
+
+<!-- ### Parallelization
+| # | Title | Comment |
+|---| ----- | ------- | -->
+
 
 ### SQL
 | # | Title | Comment |
