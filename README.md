@@ -18,6 +18,7 @@ This is the leetcode code track of Wendi.
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|link list
+|0025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|link list
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap
@@ -26,6 +27,7 @@ This is the leetcode code track of Wendi.
 |0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
+|0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
@@ -39,6 +41,11 @@ This is the leetcode code track of Wendi.
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
+
+### Data Structure
+| # | Title | Comment |
+|---| ----- | ------- |
+|0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash
 
 ### SQL
 | # | Title | Comment |
