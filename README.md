@@ -14,6 +14,7 @@ This is the leetcode code track of Wendi.
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)|DP (for循环顺序很重要)
 |0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|overflow detection
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
+|0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|string
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|link list
@@ -31,6 +32,7 @@ This is the leetcode code track of Wendi.
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
+|0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
