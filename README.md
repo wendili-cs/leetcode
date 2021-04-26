@@ -32,6 +32,7 @@ This is the leetcode code track of Wendi.
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
+|0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
@@ -46,6 +47,8 @@ This is the leetcode code track of Wendi.
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
+|0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string
 
 ### Data Structure
 | # | Title | Comment |
