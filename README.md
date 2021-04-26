@@ -1,10 +1,7 @@
-# leetcode
-
+# LeetCode Records
 This is the leetcode code track of Wendi.
 
-## Records
-
-### Algorithms
+## Algorithms
 | # | Title | Comment |
 |---| ----- | ------- |
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|hash
@@ -40,6 +37,7 @@ This is the leetcode code track of Wendi.
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list
+|0224|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)|stack, string
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort
@@ -50,7 +48,7 @@ This is the leetcode code track of Wendi.
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string
 
-### Data Structure
+## Data Structure
 | # | Title | Comment |
 |---| ----- | ------- |
 |0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash
@@ -60,7 +58,7 @@ This is the leetcode code track of Wendi.
 |---| ----- | ------- | -->
 
 
-### SQL
+## SQL
 | # | Title | Comment |
 |---| ----- | ------- |
 |0175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/)|`OUTER JOIN`
