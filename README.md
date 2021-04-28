@@ -39,6 +39,7 @@ This is the leetcode code track of Wendi.
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion
+|0135|[Candy](https://leetcode-cn.com/problems/candy/)|double scan
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|recursion
