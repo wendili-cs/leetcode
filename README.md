@@ -9,6 +9,7 @@ This is the leetcode code track of Wendi.
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|set, rolling
 |0004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|dichotomy
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)|DP (for循环顺序很重要)
+|0006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)|string, loop
 |0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|overflow detection
 |0010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)|regular expression (ingenious), string
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
@@ -36,6 +37,7 @@ This is the leetcode code track of Wendi.
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|binary tree, queue
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|binary tree, dique
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|binary tree (ingenious), recursion
+|0118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion
@@ -47,6 +49,7 @@ This is the leetcode code track of Wendi.
 |0224|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)|stack, string
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
+|0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
