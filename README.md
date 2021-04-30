@@ -35,6 +35,7 @@ This is the leetcode code track of Wendi.
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
+|0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|binary tree, queue
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|binary tree, dique
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|binary tree (ingenious), recursion
