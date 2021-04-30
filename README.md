@@ -26,6 +26,7 @@ This is the leetcode code track of Wendi.
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)|double pointer (ingenious)
 |0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
+|0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)|matrix transform
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
 |0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
