@@ -11,6 +11,7 @@ This is the leetcode code track of Wendi.
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)|DP (for循环顺序很重要)
 |0006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/)|string, loop
 |0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|overflow detection
+|0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|string, automaton
 |0010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)|regular expression (ingenious), string
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
 |0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|string
