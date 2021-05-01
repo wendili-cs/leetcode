@@ -45,6 +45,7 @@ This is the leetcode code track of Wendi.
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion
 |0135|[Candy](https://leetcode-cn.com/problems/candy/)|double scan
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash
+|0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|recursion
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list
