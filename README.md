@@ -19,6 +19,7 @@ This is the leetcode code track of Wendi.
 |0019|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|queue, link list
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|link list
+|0023|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|merge, link list, `prioirity_queue` (yyds)
 |0025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|link list
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer
