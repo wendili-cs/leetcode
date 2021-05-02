@@ -67,6 +67,7 @@ This is the leetcode code track of Wendi.
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string
+|1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律
 
 ## Data Structure
 | # | Title | Comment |
