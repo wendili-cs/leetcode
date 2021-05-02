@@ -23,6 +23,7 @@ This is the leetcode code track of Wendi.
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap
+|0032|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)|DP, string
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)|double pointer (ingenious)
 |0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP
