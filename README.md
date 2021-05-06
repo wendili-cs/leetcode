@@ -38,6 +38,7 @@ This is the leetcode code track of Wendi.
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list
+|0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule
