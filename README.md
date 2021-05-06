@@ -92,4 +92,5 @@ This is the leetcode code track of Wendi.
 |---| ----- | ------- |
 |0175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/)|`OUTER JOIN`
 |0176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/)|nested `MAX`
+|0177|[Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/)|更通用的求第n大的条目的方法
 |0184|[Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary/)|`MAX` from groups
