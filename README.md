@@ -33,6 +33,7 @@ This is the leetcode code track of Wendi.
 |0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)|matrix transform
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
 |0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix
+|0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)|DP
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
@@ -50,6 +51,7 @@ This is the leetcode code track of Wendi.
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|recursion, binary tree
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion
+|0134|[Gas Station](https://leetcode-cn.com/problems/gas-station/)|greedy
 |0135|[Candy](https://leetcode-cn.com/problems/candy/)|double scan
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针
@@ -70,6 +72,7 @@ This is the leetcode code track of Wendi.
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
+|1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律
 
