@@ -38,6 +38,7 @@ This is the leetcode code track of Wendi.
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
+|0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointers, hash
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list
 |0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
