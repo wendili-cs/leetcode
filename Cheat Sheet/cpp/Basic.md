@@ -4,7 +4,7 @@
 ### 迭代器
 
 1. 想要拷贝元素：`for(auto each:range)`
-2. 想要修改元素：`for(auto &&each:range)`
+2. 想要修改元素：`for(auto& each:range)`
 3. 想要只读元素：`for(const auto& each:range)`
 
 ## 2. Hash相关
@@ -313,4 +313,17 @@ int main()
 
 * `n&1`：判断`n`是否为奇数。因为n为奇数时，对应的二进制数最低位一定为1，n&1的结果就是1；n为偶数时，相应的最低位为0，n&1的结果就是0。
 * `1&n`：检查二进制`n`的最低位，若为1，则1&n的结果就是1；若不为1，则1&n的结果就是0。
+* `n&-n`：当一个数与其取负后的值相与， 如果这个数是偶数， 则结果是能整除这个偶数的最大的2的幂(即： `m = n & -n` , 则 `n % m = 0`, 且 `m = 2 ^ k`)， 如果这个数是奇数， 则结果必为1。用途： 一般可以用来获取某个二进制数的LowBit。
 
+### 取rank（数字在数组中依据大小的排序）
+```c++
+// 将数组转换成rank
+void get_rank(vector<int>& nums){
+	int len = nums.size();
+	vector<int> temp = nums;
+	sort(temp.begin(), temp.end());
+	for(int &num:nums){
+		num = lower_bound(temp.begin(), temp.end(), num) - temp.begin() + 1;
+	}
+}
+```
