@@ -16,6 +16,7 @@ This is the leetcode code track of Wendi.
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
 |0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|string
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
+|0018|[4Sum](https://leetcode-cn.com/problems/4sum/)|double pointer+, hash vector (C++)
 |0019|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|queue, link list
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|link list
