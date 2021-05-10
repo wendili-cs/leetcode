@@ -71,6 +71,7 @@ This is the leetcode code track of Wendi.
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)
+|0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer
