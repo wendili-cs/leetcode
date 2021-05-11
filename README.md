@@ -82,6 +82,7 @@ This is the leetcode code track of Wendi.
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)
+|0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)|string
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP
