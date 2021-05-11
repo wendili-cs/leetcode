@@ -115,4 +115,5 @@ This is the leetcode code track of Wendi.
 |0176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/)|nested `MAX`
 |0177|[Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/)|更通用的求第n大的条目的方法
 |0178|[Rank Scores](https://leetcode-cn.com/problems/rank-scores/)|`DENSE_RANK()`
+|0180|[Consecutive Numbers](https://leetcode-cn.com/problems/consecutive-numbers/)|`DISTINCT`, 根据value的出现频次筛选条目
 |0184|[Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary/)|`MAX` from groups
