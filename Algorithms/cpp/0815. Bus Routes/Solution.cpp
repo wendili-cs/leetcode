@@ -5,7 +5,7 @@ public:
     int numBusesToDestination(vector<vector<int>>& routes, int source, int target) {
         int len = routes.size();
         if(source == target) return 0;
-        vector<vector<int> > graph(len + 2, vector<int>(len + 2, 0));
+        vector<vector<bool> > graph(len + 2, vector<bool>(len + 2, 0));
         routes.insert(routes.begin(), vector<int>(1, source));
         routes.push_back(vector<int>(1, target));
         for(int i = 0; i < len + 2; i++){
