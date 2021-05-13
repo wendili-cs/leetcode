@@ -39,6 +39,7 @@ This is the leetcode code track of Wendi.
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)|DP
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
 |0059|[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|matrix
+|0062|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|DP, math
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
@@ -64,6 +65,7 @@ This is the leetcode code track of Wendi.
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort
+|0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|binary tree, queue
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|recursion
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list
