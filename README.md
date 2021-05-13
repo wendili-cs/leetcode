@@ -14,6 +14,7 @@ This is the leetcode code track of Wendi.
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|string, automaton
 |0010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)|regular expression (ingenious), string
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer
+|0013|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|string
 |0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|string
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
 |0018|[4Sum](https://leetcode-cn.com/problems/4sum/)|double pointer+, hash vector (C++)
@@ -41,6 +42,7 @@ This is the leetcode code track of Wendi.
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
+|0074|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|matrix
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointer, hash
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list
 |0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list
