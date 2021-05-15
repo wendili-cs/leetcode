@@ -54,6 +54,7 @@ This is the leetcode code track of Wendi.
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|binary tree, queue
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|binary tree, dique
+|0104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|binary tree
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|binary tree (ingenious), recursion
 |0118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
