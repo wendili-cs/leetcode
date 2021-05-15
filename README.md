@@ -64,6 +64,7 @@ This is the leetcode code track of Wendi.
 |0134|[Gas Station](https://leetcode-cn.com/problems/gas-station/)|greedy
 |0135|[Candy](https://leetcode-cn.com/problems/candy/)|double scan
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash
+|0139|[Word Break](https://leetcode-cn.com/problems/word-break/)|string, DP
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort
