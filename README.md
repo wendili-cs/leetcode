@@ -41,6 +41,7 @@ This is the leetcode code track of Wendi.
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort
 |0059|[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|matrix
 |0062|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|DP, math
+|0064|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)|matrix, DP
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
