@@ -17,6 +17,7 @@ This is the leetcode code track of Wendi.
 |0013|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|string
 |0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|string
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+
+|0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|recursion, string
 |0018|[4Sum](https://leetcode-cn.com/problems/4sum/)|double pointer+, hash vector (C++)
 |0019|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|queue, link list
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack
@@ -77,6 +78,7 @@ This is the leetcode code track of Wendi.
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP
+|0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort
