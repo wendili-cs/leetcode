@@ -51,6 +51,7 @@ This is the leetcode code track of Wendi.
 |0074|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|matrix
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointer, hash
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)|string, recursion
+|0081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|binary search, sliding
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list
 |0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list
 |0088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|double pointer
