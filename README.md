@@ -100,6 +100,7 @@ This is the leetcode code track of Wendi.
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
+|0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix
