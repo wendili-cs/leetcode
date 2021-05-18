@@ -91,6 +91,7 @@ This is the leetcode code track of Wendi.
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter
+|0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort
