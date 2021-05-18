@@ -1,5 +1,5 @@
 // https://leetcode-cn.com/problems/russian-doll-envelopes/
-
+// 思路：第一维度从小到大，相等的情况下，第二维度从大到小，可以转换成300. Longest Increasing Subsequence一题。维护一个res，res[i]表示长度为i的升序数列的末尾的最小值
 class Solution {
 public:
     static bool cmp(vector<int> &a, vector<int> &b){

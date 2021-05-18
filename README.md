@@ -54,6 +54,7 @@ This is the leetcode code track of Wendi.
 |0081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|binary search, sliding
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list
 |0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list
+|0086|[Partition List](https://leetcode-cn.com/problems/partition-list/)|link list
 |0088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|double pointer
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
@@ -127,6 +128,7 @@ This is the leetcode code track of Wendi.
 | # | Title | Comment |
 |---| ----- | ------- |
 |0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash
+|0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs
 
 <!-- ### Parallelization
 | # | Title | Comment |
