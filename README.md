@@ -90,6 +90,7 @@ This is the leetcode code track of Wendi.
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy
+|0316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)|string, stack
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)
