@@ -30,6 +30,7 @@ This is the leetcode code track of Wendi.
 |0032|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)|DP, string
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|binary search
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|binary search
+|0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)|back trace, recursion
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)|double pointer (ingenious)
 |0043|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)|string ops
