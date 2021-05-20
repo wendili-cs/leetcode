@@ -38,6 +38,7 @@ This is the leetcode code track of Wendi.
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
 |0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)|matrix transform
 |0049|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)|string, hash
+|0051|[N-Queens](https://leetcode-cn.com/problems/n-queens/)|back track, recursion
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
 |0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)|DP
