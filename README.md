@@ -80,6 +80,7 @@ This is the leetcode code track of Wendi.
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash
 |0139|[Word Break](https://leetcode-cn.com/problems/word-break/)|string, DP
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针
+|0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|link list, 快慢指针
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle
