@@ -63,6 +63,7 @@ This is the leetcode code track of Wendi.
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule
+|0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)|binary tree, recursion
 |0101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)|binary tree, recursion
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|binary tree, queue
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|binary tree, dique
