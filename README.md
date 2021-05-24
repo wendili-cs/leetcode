@@ -163,3 +163,4 @@ This is the leetcode code track of Wendi.
 |0180|[Consecutive Numbers](https://leetcode-cn.com/problems/consecutive-numbers/)|`DISTINCT`, 根据value的出现频次筛选条目
 |0181|[Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)|自连接
 |0184|[Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary/)|`MAX` from groups
+|1777|[Product's Price for Each Store](https://leetcode-cn.com/problems/products-price-for-each-store/)|`SUM`, `IF`语句
