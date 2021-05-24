@@ -105,6 +105,7 @@ This is the leetcode code track of Wendi.
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy
 |0316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)|string, stack
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP
+|0344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|string, double pointer
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)
