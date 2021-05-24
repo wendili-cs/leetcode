@@ -96,6 +96,7 @@ This is the leetcode code track of Wendi.
 |0224|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)|stack, string
 |0226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)|binary tree, recursion
 |0227|[Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/)|string, stack
+|0232|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack
 |0234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|link list, reverse ll, fast slow ptr
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
