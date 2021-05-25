@@ -141,6 +141,7 @@ This is the leetcode code track of Wendi.
 |剑32-I|[从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)|binary tree, bfs
 |剑38|[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|recursion, string
 |剑42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|greedy, DP
+|剑46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|recursion
 |剑51|[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|merge sort, binary indexed tree
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer
