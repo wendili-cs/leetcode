@@ -123,6 +123,7 @@ This is the leetcode code track of Wendi.
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
+|0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
 |0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`
