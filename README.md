@@ -100,6 +100,7 @@ This is the leetcode code track of Wendi.
 |0232|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack
 |0234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|link list, reverse ll, fast slow ptr
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer
+|0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy
