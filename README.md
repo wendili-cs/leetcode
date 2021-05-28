@@ -146,6 +146,7 @@ This is the leetcode code track of Wendi.
 |剑42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|greedy, DP
 |剑46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|recursion
 |剑51|[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|merge sort, binary indexed tree
+|面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer
 
