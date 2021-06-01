@@ -31,6 +31,7 @@ This is the leetcode code track of Wendi.
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|binary search
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|binary search
 |0035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|binary search
+|0038|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)|string, double pointer
 |0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)|back trace, recursion
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)|double pointer (ingenious)
@@ -62,6 +63,7 @@ This is the leetcode code track of Wendi.
 |0086|[Partition List](https://leetcode-cn.com/problems/partition-list/)|link list
 |0088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|double pointer
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion
+|0091|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/)|DP
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)|math, DP
@@ -112,8 +114,10 @@ This is the leetcode code track of Wendi.
 |0344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|string, double pointer
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)
+|0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string
+|0403|[Frog Jump](https://leetcode-cn.com/problems/frog-jump/)|DP
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer
