@@ -114,6 +114,7 @@ This is the leetcode code track of Wendi.
 |0344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|string, double pointer
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)
+|0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string
