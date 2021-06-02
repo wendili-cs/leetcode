@@ -138,6 +138,7 @@ This is the leetcode code track of Wendi.
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix
+|0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)|DP, math
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)|string
