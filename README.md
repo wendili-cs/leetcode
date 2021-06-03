@@ -89,6 +89,7 @@ This is the leetcode code track of Wendi.
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|link list, 快慢指针
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort
+|0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string
 |0189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|array rotate
@@ -125,6 +126,7 @@ This is the leetcode code track of Wendi.
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)|十叉数
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?
 |0445|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|link list, stack
+|0448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|for loop
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP
