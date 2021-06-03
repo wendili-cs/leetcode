@@ -33,6 +33,7 @@ This is the leetcode code track of Wendi.
 |0035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|binary search
 |0038|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)|string, double pointer
 |0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)|back trace, recursion
+|0040|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/)|recursion, back trace
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)|double pointer (ingenious)
 |0043|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)|string ops
