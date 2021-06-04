@@ -137,6 +137,7 @@ This is the leetcode code track of Wendi.
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion
+|0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack
 |0746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|DP
 |0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`
@@ -168,6 +169,7 @@ This is the leetcode code track of Wendi.
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer
 |面02.03|[Delete Middle Node LCCI](https://leetcode-cn.com/problems/delete-middle-node-lcci/)|link list
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list
+|面10.01|[Sorted Merge LCCI](https://leetcode-cn.com/problems/sorted-merge-lcci/)|merge
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer
 
 ## Data Structure
