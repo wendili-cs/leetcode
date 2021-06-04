@@ -104,6 +104,7 @@ This is the leetcode code track of Wendi.
 |0227|[Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/)|string, stack
 |0232|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack
 |0234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|link list, reverse ll, fast slow ptr
+|0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|binary tree, recursion
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
@@ -163,6 +164,7 @@ This is the leetcode code track of Wendi.
 |剑51|[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|merge sort, binary indexed tree
 |剑57|[II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|math
 |剑62|[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|math
+|面01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci/)|bits ops
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer
 |面02.03|[Delete Middle Node LCCI](https://leetcode-cn.com/problems/delete-middle-node-lcci/)|link list
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list
