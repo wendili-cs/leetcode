@@ -100,6 +100,7 @@ This is the leetcode code track of Wendi.
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list
 |0213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|DP
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|heap
+|0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)|DP
 |0224|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)|stack, string
 |0226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)|binary tree, recursion
 |0227|[Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/)|string, stack
