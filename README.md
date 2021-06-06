@@ -75,6 +75,7 @@ This is the leetcode code track of Wendi.
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|binary tree, dique
 |0104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|binary tree
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|binary tree (ingenious), recursion
+|0107|[Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|binary tree
 |0118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy
@@ -168,6 +169,7 @@ This is the leetcode code track of Wendi.
 |剑51|[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|merge sort, binary indexed tree
 |剑56|[I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|`XOR`, bits ops
 |剑57|[II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|math
+|剑58|[II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|string
 |剑62|[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|math
 |面01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci/)|bits ops
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer
