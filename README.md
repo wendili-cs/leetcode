@@ -42,6 +42,7 @@ This is the leetcode code track of Wendi.
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
 |0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)|matrix transform
 |0049|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)|string, hash
+|0050|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|quick pow
 |0051|[N-Queens](https://leetcode-cn.com/problems/n-queens/)|back track, recursion
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy
 |0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix
@@ -51,6 +52,7 @@ This is the leetcode code track of Wendi.
 |0061|[Rotate List](https://leetcode-cn.com/problems/rotate-list/)|link list
 |0062|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|DP, math
 |0064|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)|matrix, DP
+|0067|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|string
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP
@@ -123,9 +125,11 @@ This is the leetcode code track of Wendi.
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)
+|0395|[Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|recursion, binary search
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string
 |0403|[Frog Jump](https://leetcode-cn.com/problems/frog-jump/)|DP
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort
+|0410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/)|binary search
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)|十叉数
