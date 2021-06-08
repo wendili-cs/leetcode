@@ -97,6 +97,7 @@ This is the leetcode code track of Wendi.
 |0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string
+|0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote
 |0189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|array rotate
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|binary tree, queue
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|recursion
@@ -182,6 +183,7 @@ This is the leetcode code track of Wendi.
 |面02.03|[Delete Middle Node LCCI](https://leetcode-cn.com/problems/delete-middle-node-lcci/)|link list
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list
 |面10.01|[Sorted Merge LCCI](https://leetcode-cn.com/problems/sorted-merge-lcci/)|merge
+|面16.26|[Calculator LCCI](https://leetcode-cn.com/problems/calculator-lcci/)|string, stack
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer
 
 ## Data Structure
