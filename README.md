@@ -86,6 +86,7 @@ This is the leetcode code track of Wendi.
 |0125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|string
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|greedy, hash
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion
+|0132|[Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)|DP, string
 |0134|[Gas Station](https://leetcode-cn.com/problems/gas-station/)|greedy
 |0135|[Candy](https://leetcode-cn.com/problems/candy/)|double scan
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash
@@ -122,6 +123,7 @@ This is the leetcode code track of Wendi.
 |0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|binary
 |0344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|string, double pointer
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter
+|0349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|hash, set ops
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash
