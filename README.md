@@ -40,6 +40,7 @@ This is the leetcode code track of Wendi.
 |0043|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)|string ops
 |0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track
+|0047|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)|recursion
 |0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)|matrix transform
 |0049|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)|string, hash
 |0050|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|quick pow
@@ -116,6 +117,7 @@ This is the leetcode code track of Wendi.
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count
+|0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|伪link list环
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy
