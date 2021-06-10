@@ -98,7 +98,7 @@ This is the leetcode code track of Wendi.
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort|C++
 |0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack|C++
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle|C++
-|0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++
+|0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++, Python
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote|C++
 |0189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|array rotate|C++
 |0191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)|bit ops|Java
@@ -136,6 +136,7 @@ This is the leetcode code track of Wendi.
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string|C++
 |0403|[Frog Jump](https://leetcode-cn.com/problems/frog-jump/)|DP|C++
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort|C++
+|0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)|string, palindrome|Java
 |0410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/)|binary search|C++
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string|C++
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
@@ -147,6 +148,7 @@ This is the leetcode code track of Wendi.
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
+|0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
