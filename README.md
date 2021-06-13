@@ -153,6 +153,7 @@ This is the leetcode code track of Wendi.
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
+|0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack|C++
 |0746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|DP|C++
