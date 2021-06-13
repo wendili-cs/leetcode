@@ -139,6 +139,7 @@ This is the leetcode code track of Wendi.
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)|string, palindrome|Java
 |0410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/)|binary search|C++
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string|C++
+|0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|DP|C++
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)|十叉数|C++
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?|C++
