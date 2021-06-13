@@ -61,6 +61,7 @@ This is the leetcode code track of Wendi.
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointer, hash|C++
 |0077|[Combinations](https://leetcode-cn.com/problems/combinations/)|recursion|C++
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)|string, recursion|C++
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)|double pointer|C++
 |0081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|binary search, sliding|C++
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list|C++
 |0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list|C++
