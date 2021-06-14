@@ -14,6 +14,7 @@ This is the leetcode code track of Wendi.
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|string, automaton|C++
 |0010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)|regular expression (ingenious), string|C++
 |0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|double pointer|C++
+|0012|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/)|string|C++
 |0013|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|string|C++
 |0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|string|C++
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)|double pointer+|C++
