@@ -102,6 +102,7 @@ This is the leetcode code track of Wendi.
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle|C++
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++, Python
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote|C++
+|0188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|greedy|C++
 |0189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|array rotate|C++
 |0191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)|bit ops|Java
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|binary tree, queue|C++
@@ -150,6 +151,7 @@ This is the leetcode code track of Wendi.
 |0448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|for loop|C++
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy|C++
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
+|0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
