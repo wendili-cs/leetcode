@@ -110,6 +110,7 @@ This is the leetcode code track of Wendi.
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|binary tree, queue|C++
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|recursion|C++
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list|C++
+|0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)|dfs, graph|C++
 |0213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|DP|C++
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|heap|C++
 |0220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|set, `lower_bound`|C++
@@ -156,6 +157,7 @@ This is the leetcode code track of Wendi.
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy|C++
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
+|0503|[503. Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
