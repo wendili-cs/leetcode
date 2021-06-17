@@ -95,6 +95,7 @@ This is the leetcode code track of Wendi.
 |0134|[Gas Station](https://leetcode-cn.com/problems/gas-station/)|greedy|C++
 |0135|[Candy](https://leetcode-cn.com/problems/candy/)|double scan|C++
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash|C++
+|0138|[Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|hash|C++
 |0139|[Word Break](https://leetcode-cn.com/problems/word-break/)|string, DP|C++
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针|C++
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|link list, 快慢指针|C++
@@ -136,6 +137,7 @@ This is the leetcode code track of Wendi.
 |0344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|string, double pointer|C++
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter|C++
 |0349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|hash, set ops|C++
+|0350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|hash|C++
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)|C++
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
@@ -149,6 +151,7 @@ This is the leetcode code track of Wendi.
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string|C++
 |0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|DP|C++
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
+|0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|binary tree, hash, heap|C++
 |0435|[Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/)|greedy|C++
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)|十叉数|C++
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?|C++
