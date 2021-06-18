@@ -188,6 +188,7 @@ This is the leetcode code track of Wendi.
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
+|1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
 |剑05|[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|string|C++
 |剑07|[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)|binary tree, recursion|C++
@@ -213,6 +214,7 @@ This is the leetcode code track of Wendi.
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer|C++
 |面02.03|[Delete Middle Node LCCI](https://leetcode-cn.com/problems/delete-middle-node-lcci/)|link list|C++
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list|C++
+|面08.09|[Bracket LCCI](https://leetcode-cn.com/problems/bracket-lcci/)|string, recursion|C++
 |面10.01|[Sorted Merge LCCI](https://leetcode-cn.com/problems/sorted-merge-lcci/)|merge|C++
 |面16.26|[Calculator LCCI](https://leetcode-cn.com/problems/calculator-lcci/)|string, stack|C++
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer|C++
