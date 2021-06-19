@@ -53,6 +53,7 @@ This is the leetcode code track of Wendi.
 |0059|[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|matrix|C++
 |0061|[Rotate List](https://leetcode-cn.com/problems/rotate-list/)|link list|C++
 |0062|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|DP, math|C++
+|0063|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/)|DP|Java
 |0064|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)|matrix, DP|C++
 |0067|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|string|C++
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search|C++
@@ -167,6 +168,7 @@ This is the leetcode code track of Wendi.
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
+|0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java
