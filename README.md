@@ -136,6 +136,7 @@ This is the leetcode code track of Wendi.
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP|C++
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)|recursion, DP|C++
 |0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|binary|C++
+|0343|[Integer Break](https://leetcode-cn.com/problems/integer-break/)|math|C++
 |0344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|string, double pointer|C++
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter|C++
 |0349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|hash, set ops|C++
