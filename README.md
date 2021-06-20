@@ -173,6 +173,7 @@ This is the leetcode code track of Wendi.
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java
+|0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)|disjoint set, hash|C++
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack|C++
@@ -193,6 +194,7 @@ This is the leetcode code track of Wendi.
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
+|LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
 |剑05|[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|string|C++
 |剑07|[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)|binary tree, recursion|C++
