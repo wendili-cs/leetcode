@@ -28,6 +28,7 @@ This is the leetcode code track of Wendi.
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer|C++
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer|C++
 |0029|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)|bits ops|C++
+|0030|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)|string, hash|C++
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap|C++
 |0032|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/)|DP, string|C++
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|binary search|C++
