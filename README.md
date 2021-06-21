@@ -40,6 +40,7 @@ This is the leetcode code track of Wendi.
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)|C++
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)|double pointer (ingenious)|C++
 |0043|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)|string ops|C++
+|0044|[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)|regular expression, DP|C++
 |0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP|C++
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track|C++
 |0047|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)|recursion|C++
@@ -105,6 +106,7 @@ This is the leetcode code track of Wendi.
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list|C++
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort|C++
 |0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack|C++
+|0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|string, stack|C++
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle|C++
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++, Python
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote|C++
