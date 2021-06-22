@@ -169,6 +169,7 @@ This is the leetcode code track of Wendi.
 |0503|[503. Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
+|0547|[Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/)|disjoint set|C++
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
@@ -191,6 +192,7 @@ This is the leetcode code track of Wendi.
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
+|1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)|string|C++
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|greedy|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
