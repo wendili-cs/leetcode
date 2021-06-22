@@ -24,9 +24,11 @@ This is the leetcode code track of Wendi.
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack|C++
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|link list|C++
 |0023|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|merge, link list, `prioirity_queue` (yyds)|C++
+|0024|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|link list|C++
 |0025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|link list|C++
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer|C++
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer|C++
+|0028|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)|string|Java
 |0029|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)|bits ops|C++
 |0030|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)|string, hash|C++
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap|C++
