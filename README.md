@@ -36,6 +36,8 @@ This is the leetcode code track of Wendi.
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|binary search|C++
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|binary search|C++
 |0035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|binary search|C++
+|0036|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/)|matrix|C++
+|0037|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)|dfs, trace back|C++
 |0038|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)|string, double pointer|C++
 |0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)|back trace, recursion|C++
 |0040|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/)|recursion, back trace|C++
