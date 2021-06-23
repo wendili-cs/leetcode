@@ -108,6 +108,7 @@ This is the leetcode code track of Wendi.
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针|C++
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|link list, 快慢指针|C++
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list|C++
+|0145|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|binary tree, traversal, recurion|C++
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort|C++
 |0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack|C++
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|string, stack|C++
@@ -215,6 +216,7 @@ This is the leetcode code track of Wendi.
 |剑26|[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)|binary tree, recursion|C++
 |剑27|[二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)|binary tree, recursion|C++
 |剑32|[I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)|binary tree, bfs|C++
+|剑33|[二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)|recursion|C++
 |剑38|[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|recursion, string|C++
 |剑42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|greedy, DP|C++
 |剑45|[把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)|string, sort|C++
