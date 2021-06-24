@@ -141,6 +141,7 @@ This is the leetcode code track of Wendi.
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy|C++
+|0315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|binary index tree, `get_rank`|C++
 |0316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)|string, stack|C++
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP|C++
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)|recursion, DP|C++
@@ -195,6 +196,7 @@ This is the leetcode code track of Wendi.
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra|C++
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix|C++
 |0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)|DP, math|C++
+|0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
@@ -205,6 +207,7 @@ This is the leetcode code track of Wendi.
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
