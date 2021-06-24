@@ -74,6 +74,7 @@ This is the leetcode code track of Wendi.
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list|C++
 |0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list|C++
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|mono stack|C++
+|0085|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)|monotonous stack|C++
 |0086|[Partition List](https://leetcode-cn.com/problems/partition-list/)|link list|C++
 |0088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|double pointer|C++
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion|C++
