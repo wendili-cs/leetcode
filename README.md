@@ -179,6 +179,7 @@ This is the leetcode code track of Wendi.
 |0547|[Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/)|disjoint set|C++
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
+|0605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)|greedy|Java
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
 |0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
@@ -231,6 +232,7 @@ This is the leetcode code track of Wendi.
 |剑56|[I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|`XOR`, bits ops|C++
 |剑57|[II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|math|C++
 |剑58|[II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|string|C++
+|剑60|[n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)|DP|C++
 |剑61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)|playing cards|C++
 |剑62|[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|math|C++
 |面01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci/)|bits ops|C++
