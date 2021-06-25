@@ -56,6 +56,7 @@ This is the leetcode code track of Wendi.
 |0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix|C++
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)|DP|C++
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort|C++
+|0058|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)|string|Java
 |0059|[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/)|matrix|C++
 |0061|[Rotate List](https://leetcode-cn.com/problems/rotate-list/)|link list|C++
 |0062|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|DP, math|C++
@@ -228,6 +229,7 @@ This is the leetcode code track of Wendi.
 |剑42|[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)|greedy, DP|C++
 |剑45|[把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)|string, sort|C++
 |剑46|[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)|recursion|C++
+|剑47|[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)|DP|Java
 |剑50|[第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|counter|Java
 |剑51|[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|merge sort, binary indexed tree|C++
 |剑53|[II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)|binary search|C++
