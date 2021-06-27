@@ -176,7 +176,7 @@ This is the leetcode code track of Wendi.
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
-|0503|[503. Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
+|0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
 |0547|[Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/)|disjoint set|C++
@@ -185,6 +185,7 @@ This is the leetcode code track of Wendi.
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
 |0605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)|greedy|Java
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
+|0633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)|hash, double pointer|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
 |0665|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)|recursion, back trace|C++
 |0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
@@ -196,6 +197,7 @@ This is the leetcode code track of Wendi.
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)|disjoint set, hash|C++
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack|C++
+|0740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/)|DP, counter|C++
 |0746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|DP|C++
 |0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`|C++
 |0765|[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)|disjoint set|C++
