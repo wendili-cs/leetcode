@@ -62,6 +62,7 @@ This is the leetcode code track of Wendi.
 |0062|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|DP, math|C++
 |0063|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/)|DP|Java
 |0064|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/)|matrix, DP|C++
+|0066|[Plus One](https://leetcode-cn.com/problems/plus-one/)|recursion|C++
 |0067|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|string|C++
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search|C++
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP|C++
@@ -280,5 +281,6 @@ This is the leetcode code track of Wendi.
 |0181|[Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)|自连接
 |0184|[Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary/)|`MAX` from groups
 |0196|[Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/)|`DELETE`
+|0197|[Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/)|`DATEDIFF`
 |1777|[Product's Price for Each Store](https://leetcode-cn.com/problems/products-price-for-each-store/)|`SUM`, `IF`
 |1873|[Calculate Special Bonus](https://leetcode-cn.com/problems/calculate-special-bonus/)|`IF`
