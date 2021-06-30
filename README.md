@@ -149,6 +149,7 @@ This is the leetcode code track of Wendi.
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP|C++
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)|recursion, DP|C++
 |0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|binary|C++
+|0340|[Longest Substring with At Most K Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)|counter, double pointer|C++
 |0343|[Integer Break](https://leetcode-cn.com/problems/integer-break/)|math|C++
 |0344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|string, double pointer|C++
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)|counter|C++
@@ -156,6 +157,7 @@ This is the leetcode code track of Wendi.
 |0350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|hash|C++
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)|C++
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
+|0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)|C++
 |0395|[Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|recursion, binary search|C++
