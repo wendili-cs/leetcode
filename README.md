@@ -159,6 +159,7 @@ This is the leetcode code track of Wendi.
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
 |0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
+|0393|[UTF-8 Validation](https://leetcode-cn.com/problems/utf-8-validation/)|string|C++
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)|C++
 |0395|[Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|recursion, binary search|C++
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string|C++
@@ -216,6 +217,7 @@ This is the leetcode code track of Wendi.
 |1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)|string|C++
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|greedy|C++
+|1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1278|[Palindrome Partitioning III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/)|DP, string|C++
