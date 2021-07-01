@@ -185,6 +185,7 @@ This is the leetcode code track of Wendi.
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
 |0547|[Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/)|disjoint set|C++
 |0554|[Brick Wall](https://leetcode-cn.com/problems/brick-wall/)|hash, counter|C++
+|0556|[Next Greater Element III](https://leetcode-cn.com/problems/next-greater-element-iii/)|double pointer, ``#0031``|C++
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
 |0605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)|greedy|Java
@@ -220,6 +221,8 @@ This is the leetcode code track of Wendi.
 |1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
+|1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|backtrace, set|C++
+|1250|[Check If It Is a Good Array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/)|gcd, math|C++
 |1278|[Palindrome Partitioning III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/)|DP, string|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
@@ -260,6 +263,7 @@ This is the leetcode code track of Wendi.
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list|C++
 |面08.09|[Bracket LCCI](https://leetcode-cn.com/problems/bracket-lcci/)|string, recursion|C++
 |面10.01|[Sorted Merge LCCI](https://leetcode-cn.com/problems/sorted-merge-lcci/)|merge|C++
+|面16.14|[Best Line LCCI](https://leetcode-cn.com/problems/best-line-lcci/)|hash, greedy|C++
 |面16.26|[Calculator LCCI](https://leetcode-cn.com/problems/calculator-lcci/)|string, stack|C++
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer|C++
 
