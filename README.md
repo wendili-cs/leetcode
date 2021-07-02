@@ -192,6 +192,7 @@ This is the leetcode code track of Wendi.
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
 |0633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)|hash, double pointer|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
+|0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)|double pointer|C++
 |0665|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)|recursion, back trace|C++
 |0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
@@ -263,6 +264,7 @@ This is the leetcode code track of Wendi.
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer|C++
 |面02.03|[Delete Middle Node LCCI](https://leetcode-cn.com/problems/delete-middle-node-lcci/)|link list|C++
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list|C++
+|面08.06|[Hanota LCCI](https://leetcode-cn.com/problems/hanota-lcci/)|recursion|C++
 |面08.09|[Bracket LCCI](https://leetcode-cn.com/problems/bracket-lcci/)|string, recursion|C++
 |面10.01|[Sorted Merge LCCI](https://leetcode-cn.com/problems/sorted-merge-lcci/)|merge|C++
 |面16.14|[Best Line LCCI](https://leetcode-cn.com/problems/best-line-lcci/)|hash, greedy|C++
