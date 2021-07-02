@@ -196,6 +196,7 @@ This is the leetcode code track of Wendi.
 |0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
+|0680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)|double pointer|C++
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
@@ -228,6 +229,7 @@ This is the leetcode code track of Wendi.
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
+|1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
