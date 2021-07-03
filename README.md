@@ -116,6 +116,7 @@ This is the leetcode code track of Wendi.
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort|C++
 |0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack|C++
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|string, stack|C++
+|0153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|binary search|C++
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle|C++
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++, Python
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote|C++
@@ -193,6 +194,7 @@ This is the leetcode code track of Wendi.
 |0633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)|hash, double pointer|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)|double pointer|C++
+|0662|[Maximum Width of Binary Tree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)|binary tree, queue|C++
 |0665|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)|recursion, back trace|C++
 |0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
