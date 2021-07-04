@@ -170,6 +170,7 @@ This is the leetcode code track of Wendi.
 |0410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/)|binary search|C++
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string|C++
 |0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|DP|C++
+|0421|[Maximum XOR of Two Numbers in an Array](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|`XOR`, bit ops, hash|C++
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|binary tree, hash, heap|C++
 |0435|[Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/)|greedy|C++
@@ -234,6 +235,7 @@ This is the leetcode code track of Wendi.
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
+|1720|[Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/)|`XOR`|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
 |剑05|[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|string|C++
