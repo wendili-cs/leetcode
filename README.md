@@ -157,6 +157,7 @@ This is the leetcode code track of Wendi.
 |0349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|hash, set ops|C++
 |0350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|hash|C++
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)|C++
+|0363|[Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)|double pointer, set, matrix|C++
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
 |0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
@@ -184,6 +185,7 @@ This is the leetcode code track of Wendi.
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
 |0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
+|0532|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)|hash|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
 |0547|[Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/)|disjoint set|C++
 |0554|[Brick Wall](https://leetcode-cn.com/problems/brick-wall/)|hash, counter|C++
