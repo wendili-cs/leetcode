@@ -171,6 +171,7 @@ This is the leetcode code track of Wendi.
 |0410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/)|binary search|C++
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string|C++
 |0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|DP|C++
+|0417|[Pacific Atlantic Water Flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)|dfs, recursion, matrix|C++
 |0421|[Maximum XOR of Two Numbers in an Array](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|`XOR`, bit ops, hash|C++
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|binary tree, hash, heap|C++
@@ -216,6 +217,7 @@ This is the leetcode code track of Wendi.
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)|C++
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra|C++
+|0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix|C++
 |0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)|DP, math|C++
 |0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
