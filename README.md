@@ -126,6 +126,7 @@ This is the leetcode code track of Wendi.
 |0191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)|bit ops|Java
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|binary tree, queue|C++
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|recursion|C++
+|0203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|link list|C++
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list|C++
 |0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)|dfs, graph|C++
 |0213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|DP|C++
@@ -287,6 +288,7 @@ This is the leetcode code track of Wendi.
 |0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash|C++
 |0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|stack|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
+|0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 
 <!-- ### Parallelization
 | # | Title | Comment |
