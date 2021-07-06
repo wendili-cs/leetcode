@@ -101,6 +101,7 @@ This is the leetcode code track of Wendi.
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|recursion, binary tree|C++
 |0125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|string|C++
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|greedy, hash|C++
+|0129|[Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|recursion, binary tree|C++
 |0130|[Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/)|recursion, matrix|C++
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion|C++
 |0132|[Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)|DP, string|C++
@@ -159,6 +160,7 @@ This is the leetcode code track of Wendi.
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)|C++
 |0363|[Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)|double pointer, set, matrix|C++
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
+|0377|[Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)|recursion, DP|C++
 |0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
 |0393|[UTF-8 Validation](https://leetcode-cn.com/problems/utf-8-validation/)|string|C++
