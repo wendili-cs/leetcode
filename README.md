@@ -95,6 +95,7 @@ This is the leetcode code track of Wendi.
 |0113|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)|binary tree, dfs|C++
 |0115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)|DP|C++
 |0118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|C++
+|0119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)杨辉三角|C++
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy|C++
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|greedy|C++
 |0123|[Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|greedy|C++
@@ -139,6 +140,7 @@ This is the leetcode code track of Wendi.
 |0232|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|stack|C++
 |0234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|link list, reverse ll, fast slow ptr|C++
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|binary tree, recursion|C++
+|0237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|link list|C++
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer|C++
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion|C++
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer|C++
@@ -197,6 +199,7 @@ This is the leetcode code track of Wendi.
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
 |0605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)|greedy|Java
+|0611|[Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)|double pointer|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
 |0633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)|hash, double pointer|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
