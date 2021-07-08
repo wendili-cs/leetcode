@@ -143,6 +143,7 @@ This is the leetcode code track of Wendi.
 |0237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|link list|C++
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer|C++
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion|C++
+|0269|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer|C++
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count|C++
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|伪link list环|C++
@@ -183,6 +184,7 @@ This is the leetcode code track of Wendi.
 |0435|[Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/)|greedy|C++
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)|十叉数|C++
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?|C++
+|0443|[String Compression](https://leetcode-cn.com/problems/string-compression/)|string, counter|C++
 |0445|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|link list, stack|C++
 |0448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|for loop|C++
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy|C++
