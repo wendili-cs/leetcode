@@ -209,6 +209,7 @@ This is the leetcode code track of Wendi.
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)|double pointer|C++
 |0662|[Maximum Width of Binary Tree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)|binary tree, queue|C++
+|0664|[Strange Printer](https://leetcode-cn.com/problems/strange-printer/)|string, DP|C++
 |0665|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)|recursion, back trace|C++
 |0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++

@@ -5,11 +5,13 @@ public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
         int m = mat.size(), n = mat[0].size();
         vector<int> res;
-        for(int i = 0; i <= m + n - 2; i++){
-            for(int j = 0; j <= i; j++){ // mat[j][i - j] when i&1, else mat[i - j][j]
-                if((i&1) && j < m && (i - j) < n) res.push_back(mat[j][i - j]);
-                else if(!(i&1) && (i - j) < m && j < n) res.push_back(mat[i - j][j]);
+        for(int i = 0; i < m + n - 1; i++){
+            vector<int> temp;
+            for(int j = max(0,i-n+1); j < min(m,i+1); j++){ // mat[j][i - j] when i&1, else mat[i - j][j]
+                temp.push_back(mat[j][i - j]);
             }
+            if(i % 2 == 0) reverse(temp.begin(), temp.end());
+            res.insert(res.end(), temp.begin(), temp.end());
         }
         return res;
     }
