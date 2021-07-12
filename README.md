@@ -66,6 +66,7 @@ This is the leetcode code track of Wendi.
 |0067|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|string|C++
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|binary search|C++
 |0070|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|DP|C++
+|0071|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/)|string|C++
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP|C++
 |0074|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|matrix|C++
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointer, hash|C++
@@ -145,6 +146,7 @@ This is the leetcode code track of Wendi.
 |0237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|link list|C++
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer|C++
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion|C++
+|0260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/)|binary ops|C++
 |0269|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer|C++
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count|C++
