@@ -200,18 +200,6 @@ std::function<int(int)> factorial;
 factorial = [&factorial](int n) { return n < 2 ? 1 : n * factorial(n - 1); }；
 ```
 
-### min_element、max_element函数
-
-```c++
-int main()
-{
-	vector<int>v = { 1,5,8,2,4,6,7,3 };
-	cout << *min_element(v.begin(), v.end()) << endl;
-	cout << *max_element(v.begin(), v.end()) << endl;
-	system("pause");
-}
-```
-
 ## 6. 一些属性、结构体
 ### 最大值
 内置最大值的宏定义：https://blog.csdn.net/caroline_wendy/article/details/24311895

@@ -86,6 +86,7 @@ This is the leetcode code track of Wendi.
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule|C++
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)|math, DP|C++
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)|binary tree, recursion|C++
+|0100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)|binary tree, recursion|C++
 |0101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)|binary tree, recursion|C++
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|binary tree, queue|C++
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|binary tree, dique|C++
@@ -157,6 +158,7 @@ This is the leetcode code track of Wendi.
 |0315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|binary index tree, `get_rank`|C++
 |0316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)|string, stack|C++
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP|C++
+|0328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)|link list|C++
 |0329|[Longest Increasing Path in a Matrix](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|recursion, DP|C++
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)|recursion, DP|C++
 |0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|binary|C++
@@ -172,6 +174,7 @@ This is the leetcode code track of Wendi.
 |0377|[Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)|recursion, DP|C++
 |0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
+|0392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|string|C++
 |0393|[UTF-8 Validation](https://leetcode-cn.com/problems/utf-8-validation/)|string|C++
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)|C++
 |0395|[Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|recursion, binary search|C++
@@ -180,6 +183,7 @@ This is the leetcode code track of Wendi.
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort|C++
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)|string, palindrome|Java
 |0410|[Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/)|binary search|C++
+|0413|[Arithmetic Slices](https://leetcode-cn.com/problems/arithmetic-slices/)|double pointer|C++
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string|C++
 |0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|DP|C++
 |0417|[Pacific Atlantic Water Flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)|dfs, recursion, matrix|C++
