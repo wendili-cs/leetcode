@@ -192,6 +192,7 @@ This is the leetcode code track of Wendi.
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|binary tree, hash, heap|C++
 |0435|[Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/)|greedy|C++
+|0437|[Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/)|binary tree, hash|C++
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/)|十叉数|C++
 |0442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|`medium` difficulty?|C++
 |0443|[String Compression](https://leetcode-cn.com/problems/string-compression/)|string, counter|C++
@@ -199,6 +200,7 @@ This is the leetcode code track of Wendi.
 |0448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|for loop|C++
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy|C++
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
+|0459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)|string|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
