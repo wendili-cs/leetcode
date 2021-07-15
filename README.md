@@ -86,6 +86,7 @@ This is the leetcode code track of Wendi.
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule|C++
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)|math, DP|C++
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)|binary tree, recursion|C++
+|0099|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)|binary tree, inorder traverse|C++
 |0100|[Same Tree](https://leetcode-cn.com/problems/same-tree/)|binary tree, recursion|C++
 |0101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)|binary tree, recursion|C++
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|binary tree, queue|C++
@@ -151,6 +152,7 @@ This is the leetcode code track of Wendi.
 |0269|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer|C++
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count|C++
+|0278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|binary search|C++
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|伪link list环|C++
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
