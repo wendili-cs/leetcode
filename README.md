@@ -94,6 +94,7 @@ This is the leetcode code track of Wendi.
 |0104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|binary tree|C++
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|binary tree (ingenious), recursion|C++
 |0107|[Binary Tree Level Order Traversal II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|binary tree|C++
+|0108|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|binary tree, recursion|C++
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)|link list, binary tree|C++
 |0110|[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)|recursion, binary tree|C++
 |0113|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)|binary tree, dfs|C++
@@ -137,6 +138,7 @@ This is the leetcode code track of Wendi.
 |0213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|DP|C++
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|heap|C++
 |0216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)|recursion|C++
+|0217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/)|hash|C++, Java
 |0220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|set, `lower_bound`|C++
 |0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)|DP|C++
 |0224|[Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/)|stack, string|C++
@@ -319,6 +321,7 @@ This is the leetcode code track of Wendi.
 |0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash|C++
 |0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|stack|C++
 |0303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|prefix sum|C++
+|0304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|matrix, prefix sum|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
