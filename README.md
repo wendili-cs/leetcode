@@ -84,6 +84,7 @@ This is the leetcode code track of Wendi.
 |0091|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/)|DP|C++
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list|C++
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule|C++
+|0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|binary tree, inorder|C++
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)|math, DP|C++
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)|binary tree, recursion|C++
 |0099|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)|binary tree, inorder traverse|C++
@@ -205,6 +206,7 @@ This is the leetcode code track of Wendi.
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy|C++
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
 |0459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)|string|C++
+|0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)|binary ops|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
