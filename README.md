@@ -242,6 +242,7 @@ This is the leetcode code track of Wendi.
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
 |0697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|counter, hash|C++
+|0698|[Partition to K Equal Sum Subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|DP, back trace|C++
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)|disjoint set, hash|C++
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack|C++
@@ -269,6 +270,7 @@ This is the leetcode code track of Wendi.
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|backtrace, set|C++
 |1250|[Check If It Is a Good Array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/)|gcd, math|C++
 |1278|[Palindrome Partitioning III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/)|DP, string|C++
+|1310|[XOR Queries of a Subarray](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)|`XOR`, prefix sum|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
