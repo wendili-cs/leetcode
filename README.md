@@ -98,6 +98,7 @@ This is the leetcode code track of Wendi.
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|binary tree, recursion|C++
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)|link list, binary tree|C++
 |0110|[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)|recursion, binary tree|C++
+|0112|[Path Sum](https://leetcode-cn.com/problems/path-sum/)|binary tree, recursion|C++
 |0113|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)|binary tree, dfs|C++
 |0115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)|DP|C++
 |0118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|C++
@@ -273,6 +274,7 @@ This is the leetcode code track of Wendi.
 |1310|[XOR Queries of a Subarray](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)|`XOR`, prefix sum|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops|C++
+|1388|[Pizza With 3n Slices](https://leetcode-cn.com/problems/pizza-with-3n-slices/)|DP, greedy|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|`XOR`, hash, truble pointer|C++
@@ -282,6 +284,7 @@ This is the leetcode code track of Wendi.
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
 |1720|[Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/)|`XOR`|C++
 |1734|[Decode XORed Permutation](https://leetcode-cn.com/problems/decode-xored-permutation/)|`XOR`|C++
+|1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|prefix sum|C++
 |1818|[Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|binary search, greedy|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
@@ -313,6 +316,7 @@ This is the leetcode code track of Wendi.
 |剑64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|recursion|C++
 |面01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci/)|bits ops|C++
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer|C++
+|面02.02|[Kth Node From End of List LCCI](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)|link list|C++
 |面02.03|[Delete Middle Node LCCI](https://leetcode-cn.com/problems/delete-middle-node-lcci/)|link list|C++
 |面02.05|[链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)|link list|C++
 |面08.06|[Hanota LCCI](https://leetcode-cn.com/problems/hanota-lcci/)|recursion|C++
