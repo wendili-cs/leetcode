@@ -85,6 +85,7 @@ This is the leetcode code track of Wendi.
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list|C++
 |0093|[Restore IP Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)|string, rule|C++
 |0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|binary tree, inorder|C++
+|0095|[Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)|recursion, binary tree|C++
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)|math, DP|C++
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)|binary tree, recursion|C++
 |0099|[Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)|binary tree, inorder traverse|C++
@@ -261,6 +262,7 @@ This is the leetcode code track of Wendi.
 |0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)|DP, math|C++
 |0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
+|0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
 |1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
