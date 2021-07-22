@@ -257,6 +257,7 @@ This is the leetcode code track of Wendi.
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix|C++
 |0872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)|binary tree, dfs|C++
+|0877|[Stone Game](https://leetcode-cn.com/problems/stone-game/)|math, DP|C++
 |0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)|DP, math|C++
 |0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
