@@ -298,6 +298,7 @@ This is the leetcode code track of Wendi.
 |剑13|[机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)|recursion|C++
 |剑18|[删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)|link list|C++
 |剑20|[表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)|string (判断折磨人)|C++
+|剑21|[调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|double pointer|C++
 |剑22|[链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|link list|C++
 |剑26|[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)|binary tree, recursion|C++
 |剑27|[二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/)|binary tree, recursion|C++
@@ -318,6 +319,7 @@ This is the leetcode code track of Wendi.
 |剑61|[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)|playing cards|C++
 |剑62|[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|math|C++
 |剑64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|recursion|C++
+|剑66|[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)|DP|C++
 |面01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci/)|bits ops|C++
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer|C++
 |面02.02|[Kth Node From End of List LCCI](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)|link list|C++
