@@ -129,6 +129,7 @@ This is the leetcode code track of Wendi.
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|binary search|C++
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle|C++
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++, Python
+|0166|[Fraction to Recurring Decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)|string, hash|C++
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote|C++
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|greedy|C++
 |0189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|array rotate|C++
