@@ -263,6 +263,7 @@ This is the leetcode code track of Wendi.
 |0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)|DP, math|C++
 |0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
+|0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
 |0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
@@ -331,6 +332,7 @@ This is the leetcode code track of Wendi.
 |面08.09|[Bracket LCCI](https://leetcode-cn.com/problems/bracket-lcci/)|string, recursion|C++
 |面10.01|[Sorted Merge LCCI](https://leetcode-cn.com/problems/sorted-merge-lcci/)|merge|C++
 |面16.14|[Best Line LCCI](https://leetcode-cn.com/problems/best-line-lcci/)|hash, greedy|C++
+|面16.19|[Pond Sizes LCCI](https://leetcode-cn.com/problems/pond-sizes-lcci/)|dfs, recursion|C++
 |面16.26|[Calculator LCCI](https://leetcode-cn.com/problems/calculator-lcci/)|string, stack|C++
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer|C++
 |面17.24|[Max Submatrix LCCI](https://leetcode-cn.com/problems/max-submatrix-lcci/)|greedy, prefix sum, matrix|C++
