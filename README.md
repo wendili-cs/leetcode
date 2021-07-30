@@ -213,6 +213,7 @@ This is the leetcode code track of Wendi.
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)|binary ops|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
+|0487|[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)|presum, double pointer|C++
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
 |0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
