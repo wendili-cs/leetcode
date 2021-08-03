@@ -289,6 +289,7 @@ This is the leetcode code track of Wendi.
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops|C++
 |1388|[Pizza With 3n Slices](https://leetcode-cn.com/problems/pizza-with-3n-slices/)|DP, greedy|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
+|1428|[Leftmost Column with at Least a One](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/)|matrix, binary search|C++
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|`XOR`, hash, truble pointer|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
@@ -349,6 +350,7 @@ This is the leetcode code track of Wendi.
 |---| ----- | ------- | -------- |
 |0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash|C++
 |0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|stack|C++
+|0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|tree, recursion|C++
 |0303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|prefix sum|C++
 |0304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|matrix, prefix sum|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
