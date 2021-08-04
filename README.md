@@ -350,7 +350,9 @@ This is the leetcode code track of Wendi.
 |---| ----- | ------- | -------- |
 |0146|[LRU Cache](https://leetcode-cn.com/problems/lru-cache/)|link list, hash|C++
 |0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|stack|C++
-|0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|tree, recursion|C++
+|0158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|buffer|C++
+|0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|prefix tree, recursion|C++
+|0211|[Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/)|prefix tree, recursion|C++
 |0303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|prefix sum|C++
 |0304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|matrix, prefix sum|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
