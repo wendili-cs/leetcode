@@ -139,6 +139,7 @@ This is the leetcode code track of Wendi.
 |0203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|link list|C++
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list|C++
 |0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)|dfs, graph, topological sort|C++
+|0210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)|topological sort|C++
 |0213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|DP|C++
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|heap, quick sort|C++
 |0216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)|recursion|C++
@@ -233,6 +234,7 @@ This is the leetcode code track of Wendi.
 |0611|[Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)|double pointer|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
 |0628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|math|C++
+|0630|[Course Schedule III](https://leetcode-cn.com/problems/course-schedule-iii/)|greedy, heap|C++
 |0633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)|hash, double pointer|C++
 |0643|[Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|sliding window|C++
 |0645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/)|count, XOR (待推敲)|C++
