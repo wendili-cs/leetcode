@@ -158,8 +158,9 @@ This is the leetcode code track of Wendi.
 |0253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/)|min heap|C++
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion|C++
 |0260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/)|binary ops|C++
-|0269|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
+|0263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer|C++
+|0269|[Alien Dictionary](https://leetcode-cn.com/problems/alien-dictionary/)|topological sort|C++
 |0273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/)|string, recursion|C++
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count|C++
 |0278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|binary search|C++
@@ -294,6 +295,7 @@ This is the leetcode code track of Wendi.
 |1428|[Leftmost Column with at Least a One](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/)|matrix, binary search|C++
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|`XOR`, hash, truble pointer|C++
+|1462|[Course Schedule IV](https://leetcode-cn.com/problems/course-schedule-iv/)|topological sort|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
 |1539|[Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/)|pointer|C++
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
