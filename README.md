@@ -69,6 +69,7 @@ This is the leetcode code track of Wendi.
 |0071|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/)|string|C++
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)|DP|C++
 |0074|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|matrix|C++
+|0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)|sort, double pointer|C++
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointer, hash|C++
 |0077|[Combinations](https://leetcode-cn.com/problems/combinations/)|recursion|C++
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)|string, recursion|C++
@@ -163,6 +164,7 @@ This is the leetcode code track of Wendi.
 |0269|[Alien Dictionary](https://leetcode-cn.com/problems/alien-dictionary/)|topological sort|C++
 |0273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/)|string, recursion|C++
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count|C++
+|0277|[Find the Celebrity](https://leetcode-cn.com/problems/find-the-celebrity/)|math|C++
 |0278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|binary search|C++
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|伪link list环|C++
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
@@ -360,6 +362,7 @@ This is the leetcode code track of Wendi.
 |0303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|prefix sum|C++
 |0304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|matrix, prefix sum|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
+|0348|[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/)|game|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |剑59|[II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|deque|C++
