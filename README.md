@@ -103,6 +103,7 @@ This is the leetcode code track of Wendi.
 |0112|[Path Sum](https://leetcode-cn.com/problems/path-sum/)|binary tree, recursion|C++
 |0113|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)|binary tree, dfs|C++
 |0115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)|DP|C++
+|0116|[Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|binary tree, recursion, BFS|C++
 |0118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|C++
 |0119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)杨辉三角|C++
 |0121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|greedy|C++
@@ -307,6 +308,7 @@ This is the leetcode code track of Wendi.
 |1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|prefix sum|C++
 |1787|[Make the XOR of All Segments Equal to Zero](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|`XOR`, hash, DP|C++
 |1818|[Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|binary search, greedy|C++
+|1822|[Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)||C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
 |剑05|[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|string|C++
