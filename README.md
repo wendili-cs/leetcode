@@ -101,6 +101,7 @@ This is the leetcode code track of Wendi.
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|binary tree, recursion|C++
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)|link list, binary tree|C++
 |0110|[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/)|recursion, binary tree|C++
+|0111|[Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|binary tree, recursion|C++
 |0112|[Path Sum](https://leetcode-cn.com/problems/path-sum/)|binary tree, recursion|C++
 |0113|[Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/)|binary tree, dfs|C++
 |0115|[Distinct Subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)|DP|C++
@@ -134,6 +135,7 @@ This is the leetcode code track of Wendi.
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle|C++
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++, Python
 |0166|[Fraction to Recurring Decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)|string, hash|C++
+|0168|[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/)|numbers|C++
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote|C++
 |0173|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)|binary tree, queue|C++
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|greedy|C++
