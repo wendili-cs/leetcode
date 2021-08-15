@@ -139,6 +139,7 @@ This is the leetcode code track of Wendi.
 |0168|[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/)|numbers|C++
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|Moore vote|C++
 |0173|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/)|binary tree, queue|C++
+|0179|[Largest Number](https://leetcode-cn.com/problems/largest-number/)|string, sort|C++
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|greedy|C++
 |0189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|array rotate|C++
 |0191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)|bit ops|Java
