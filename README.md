@@ -149,6 +149,7 @@ This is the leetcode code track of Wendi.
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list|C++
 |0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)|dfs, graph, topological sort|C++
 |0210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)|topological sort|C++
+|0212|[Word Search II](https://leetcode-cn.com/problems/word-search-ii/)|prefix tree, string, backtrace|C++
 |0213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|DP|C++
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|heap, quick sort|C++
 |0216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/)|recursion|C++
