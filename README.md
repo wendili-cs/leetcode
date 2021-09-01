@@ -228,6 +228,7 @@ This is the leetcode code track of Wendi.
 |0459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)|string|C++
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)|binary ops|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
+|0474|[Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)|DP, matrix|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
 |0487|[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)|presum, double pointer|C++
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
@@ -283,6 +284,7 @@ This is the leetcode code track of Wendi.
 |0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)|stack, string|C++
+|0937|[Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|string|C++
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
 |0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
