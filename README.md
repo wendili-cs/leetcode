@@ -288,6 +288,7 @@ This is the leetcode code track of Wendi.
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
 |0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
+|0994|[Rotting Oranges](https://leetcode-cn.com/problems/rotting-oranges/)|matrix, BFS|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
 |1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
