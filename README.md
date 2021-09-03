@@ -276,6 +276,7 @@ This is the leetcode code track of Wendi.
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)|C++
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra|C++
+|0819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)|string, hash|C++
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix|C++
 |0872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)|binary tree, dfs|C++
@@ -288,6 +289,7 @@ This is the leetcode code track of Wendi.
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
 |0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
+|0994|[Rotting Oranges](https://leetcode-cn.com/problems/rotting-oranges/)|matrix, BFS|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
 |1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
