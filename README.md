@@ -296,6 +296,7 @@ This is the leetcode code track of Wendi.
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)|string|C++
 |1049|[Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii/)|recursion, DP|C++
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|greedy|C++
+|1062|[Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)|string, hash, binary search|C++
 |1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
@@ -353,6 +354,7 @@ This is the leetcode code track of Wendi.
 |剑62|[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)|math|C++
 |剑64|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)|recursion|C++
 |剑66|[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)|DP|C++
+|剑119|[最长连续序列](https://leetcode-cn.com/problems/WhsWhI/)|hash, set|C++
 |面01.01|[Is Unique LCCI](https://leetcode-cn.com/problems/is-unique-lcci/)|bits ops|C++
 |面01.06|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/)|string, double pointer|C++
 |面02.02|[Kth Node From End of List LCCI](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)|link list|C++
