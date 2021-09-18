@@ -285,6 +285,7 @@ This is the leetcode code track of Wendi.
 |0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)|stack, string|C++
+|0929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/)|string|C++
 |0937|[Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|string|C++
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
@@ -293,6 +294,7 @@ This is the leetcode code track of Wendi.
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
 |1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
+|1041|[Robot Bounded In Circle](https://leetcode-cn.com/problems/robot-bounded-in-circle/)|vector|C++
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)|string|C++
 |1049|[Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii/)|recursion, DP|C++
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|greedy|C++
