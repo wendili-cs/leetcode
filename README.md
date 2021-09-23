@@ -229,6 +229,7 @@ This is the leetcode code track of Wendi.
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)|binary ops|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0474|[Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)|DP, matrix|C++
+|0482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/)|string|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
 |0487|[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)|presum, double pointer|C++
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
@@ -261,6 +262,7 @@ This is the leetcode code track of Wendi.
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
 |0680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)|double pointer|C++
+|0681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/)|greedy|C++
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
