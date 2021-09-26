@@ -270,6 +270,7 @@ This is the leetcode code track of Wendi.
 |0698|[Partition to K Equal Sum Subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|DP, back trace|C++
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)|disjoint set, hash|C++
+|0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|stack|C++
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack|C++
 |0740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/)|DP, counter|C++
 |0746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|DP|C++
