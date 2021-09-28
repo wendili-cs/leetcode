@@ -278,6 +278,7 @@ This is the leetcode code track of Wendi.
 |0765|[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)|disjoint set|C++
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)|C++
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
+|0792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|string, hash|C++
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra|C++
 |0819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)|string, hash|C++
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
@@ -290,6 +291,7 @@ This is the leetcode code track of Wendi.
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)|stack, string|C++
 |0929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/)|string|C++
 |0937|[Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|string|C++
+|0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|matrix, hash|C++
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|map, string|C++
