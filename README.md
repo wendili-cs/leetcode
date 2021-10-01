@@ -284,6 +284,7 @@ This is the leetcode code track of Wendi.
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix|C++
 |0872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)|binary tree, dfs|C++
+|0875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|binary search|C++
 |0877|[Stone Game](https://leetcode-cn.com/problems/stone-game/)|math, DP|C++
 |0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)|DP, math|C++
 |0897|[Increasing Order Search Tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)|recursion, binary tree|C++
@@ -320,6 +321,7 @@ This is the leetcode code track of Wendi.
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops|C++
 |1388|[Pizza With 3n Slices](https://leetcode-cn.com/problems/pizza-with-3n-slices/)|DP, greedy|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
+|1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|greedy, rolling|C++
 |1428|[Leftmost Column with at Least a One](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/)|matrix, binary search|C++
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|`XOR`, hash, truble pointer|C++
