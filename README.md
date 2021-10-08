@@ -246,6 +246,7 @@ This is the leetcode code track of Wendi.
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
 |0567|[Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/)|string, counter|C++
+|0593|[Valid Square](https://leetcode.com/problems/valid-square/)|math|C++
 |0605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)|greedy|Java
 |0611|[Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)|double pointer|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
@@ -263,7 +264,7 @@ This is the leetcode code track of Wendi.
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
 |0680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)|double pointer|C++
 |0681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/)|greedy|C++
-|0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java
+|0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java, C++
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
 |0697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|counter, hash|C++
@@ -400,6 +401,7 @@ This is the leetcode code track of Wendi.
 |0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|map, hash|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
+|1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
 |剑59|[II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|deque|C++
 
 <!-- ### Parallelization
