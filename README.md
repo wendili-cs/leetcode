@@ -196,10 +196,12 @@ This is the leetcode code track of Wendi.
 |0350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|hash|C++
 |0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/)|greedy, binary search (`lower_bound`)|C++
 |0363|[Max Sum of Rectangle No Larger Than K](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)|double pointer, set, matrix|C++
+|0366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|binary tree, recursion|C++
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
 |0377|[Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)|recursion, DP|C++
 |0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
+|0388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|string, recursion, prefix tree|C++
 |0392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|string|C++
 |0393|[UTF-8 Validation](https://leetcode-cn.com/problems/utf-8-validation/)|string|C++
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack, recursion (TODO)|C++
