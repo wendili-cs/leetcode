@@ -215,6 +215,7 @@ This is the leetcode code track of Wendi.
 |0415|[Add Strings](https://leetcode-cn.com/problems/add-strings/)|string|C++
 |0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)|DP|C++
 |0417|[Pacific Atlantic Water Flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)|dfs, recursion, matrix|C++
+|0418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|DP, string|C++
 |0421|[Maximum XOR of Two Numbers in an Array](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|`XOR`, bit ops, hash|C++
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|binary tree, hash, heap|C++
@@ -318,6 +319,7 @@ This is the leetcode code track of Wendi.
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|backtrace, set|C++
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)|string, stack|C++
 |1250|[Check If It Is a Good Array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/)|gcd, math|C++
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|prefix tree, string, dfs|C++
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|matrix, DP|C++
 |1278|[Palindrome Partitioning III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/)|DP, string|C++
 |1305|[All Elements in Two Binary Search Trees](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)|binary tree, dfs|C++
