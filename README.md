@@ -270,6 +270,7 @@ This is the leetcode code track of Wendi.
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java, C++
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
+|0696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|string|C++
 |0697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|counter, hash|C++
 |0698|[Partition to K Equal Sum Subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|DP, back trace|C++
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
@@ -341,6 +342,7 @@ This is the leetcode code track of Wendi.
 |1539|[Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/)|pointer|C++
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|hash|C++
 |1720|[Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/)|`XOR`|C++
 |1734|[Decode XORed Permutation](https://leetcode-cn.com/problems/decode-xored-permutation/)|`XOR`|C++
 |1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|prefix sum|C++
