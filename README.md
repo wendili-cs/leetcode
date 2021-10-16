@@ -306,6 +306,7 @@ This is the leetcode code track of Wendi.
 |0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
 |0994|[Rotting Oranges](https://leetcode-cn.com/problems/rotting-oranges/)|matrix, BFS|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|hash|C++
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)|binary search|C++
 |1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
 |1041|[Robot Bounded In Circle](https://leetcode-cn.com/problems/robot-bounded-in-circle/)|vector|C++
