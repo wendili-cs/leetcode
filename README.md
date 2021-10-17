@@ -337,7 +337,9 @@ This is the leetcode code track of Wendi.
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|`XOR`, hash, truble pointer|C++
 |1462|[Course Schedule IV](https://leetcode-cn.com/problems/course-schedule-iv/)|topological sort|C++
+|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|greedy|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
+|1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||C++
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|greedy|C++
 |1539|[Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/)|pointer|C++
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
