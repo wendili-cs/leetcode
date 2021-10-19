@@ -329,7 +329,7 @@ This is the leetcode code track of Wendi.
 |1305|[All Elements in Two Binary Search Trees](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)|binary tree, dfs|C++
 |1310|[XOR Queries of a Subarray](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)|`XOR`, prefix sum|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
-|1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops|C++
+|1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops, `priority queue`, greedy|C++
 |1388|[Pizza With 3n Slices](https://leetcode-cn.com/problems/pizza-with-3n-slices/)|DP, greedy|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|greedy, rolling|C++
@@ -339,6 +339,7 @@ This is the leetcode code track of Wendi.
 |1462|[Course Schedule IV](https://leetcode-cn.com/problems/course-schedule-iv/)|topological sort|C++
 |1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|greedy|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
+|1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|hash, counter|C++
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||C++
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|greedy|C++
 |1539|[Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/)|pointer|C++
