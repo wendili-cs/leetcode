@@ -183,6 +183,7 @@ This is the leetcode code track of Wendi.
 |0315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|binary index tree, `get_rank`|C++
 |0316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)|string, stack|C++
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP|C++
+|0323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|disjoin set|C++
 |0328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)|link list|C++
 |0329|[Longest Increasing Path in a Matrix](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|recursion, DP|C++
 |0331|[Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)|binary tree|C++
