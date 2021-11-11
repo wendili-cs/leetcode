@@ -320,6 +320,7 @@ This is the leetcode code track of Wendi.
 |1062|[Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)|string, hash, binary search|C++
 |1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|binary tree, recursion|C++
+|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|disjoin set, Kruskal alg|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|backtrace, set|C++
@@ -417,6 +418,7 @@ This is the leetcode code track of Wendi.
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
+|1628|[Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)|stack|C++
 |剑59|[II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|deque|C++
 
 <!-- ### Parallelization
