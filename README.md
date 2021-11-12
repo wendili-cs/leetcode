@@ -359,6 +359,7 @@ This is the leetcode code track of Wendi.
 |1818|[Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|binary search, greedy|C++
 |1822|[Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)||C++
 |1834|[Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|priority queue, buffer|C++
+|1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
 |剑05|[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|string|C++
