@@ -1,22 +1,18 @@
 // https://leetcode-cn.com/problems/design-parking-system/
 
 class ParkingSystem {
-private:
-    vector<int> slots;
-    vector<int> cur;
 public:
+    vector<int> sp;
     ParkingSystem(int big, int medium, int small) {
-        slots = vector<int>(4, 0);
-        cur = vector<int>(4, 0);
-        slots[1] = big;
-        slots[2] = medium;
-        slots[3] = small;
+        sp = {big, medium, small};
     }
     
     bool addCar(int carType) {
-        if(cur[carType] >= slots[carType]) return false;
-        else cur[carType]++;
-        return true;
+        if(sp[carType - 1] > 0){
+            sp[carType - 1]--;
+            return true;
+        }
+        return false;
     }
 };
 

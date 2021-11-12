@@ -320,6 +320,7 @@ This is the leetcode code track of Wendi.
 |1062|[Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)|string, hash, binary search|C++
 |1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|binary tree, recursion|C++
+|1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|recursion, binary tree|C++
 |1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|disjoin set, Kruskal alg|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
@@ -351,6 +352,7 @@ This is the leetcode code track of Wendi.
 |1648|[Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|math|C++
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|hash|C++
 |1720|[Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/)|`XOR`|C++
+|1730|[Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/)|BFS|C++
 |1734|[Decode XORed Permutation](https://leetcode-cn.com/problems/decode-xored-permutation/)|`XOR`|C++
 |1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|prefix sum|C++
 |1787|[Make the XOR of All Segments Equal to Zero](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|`XOR`, hash, DP|C++
