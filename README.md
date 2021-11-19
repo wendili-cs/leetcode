@@ -23,6 +23,7 @@ This is the leetcode code track of Wendi.
 |0019|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|queue, link list|C++
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|stack|C++
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|link list|C++
+|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|back trace|C++
 |0023|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|merge, link list, `prioirity_queue` (yyds)|C++
 |0024|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|link list|C++
 |0025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|link list|C++
@@ -164,6 +165,7 @@ This is the leetcode code track of Wendi.
 |0234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/)|link list, reverse ll, fast slow ptr|C++
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|binary tree, recursion|C++
 |0237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|link list|C++
+|0238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)|traverse|C++
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer|C++
 |0241|[Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)|string, recursion, DP|C++
 |0253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/)|min heap|C++
@@ -177,6 +179,7 @@ This is the leetcode code track of Wendi.
 |0277|[Find the Celebrity](https://leetcode-cn.com/problems/find-the-celebrity/)|math|C++
 |0278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|binary search|C++
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|伪link list环|C++
+|0289|[Game of Life](https://leetcode.com/problems/game-of-life/)|matrix|C++
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy|C++
