@@ -133,6 +133,7 @@ This is the leetcode code track of Wendi.
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort|C++
 |0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack|C++
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|string, stack|C++
+|0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|DP|C++
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|binary search|C++
 |0160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|link list, make cycle|C++
 |0165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/)|string|C++, Python
