@@ -43,9 +43,9 @@ This is the leetcode code track of Wendi.
 |0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)|back trace, recursion|C++
 |0040|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/)|recursion, back trace|C++
 |0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|`priority_queue` (yyds), hash (miserly)|C++
-|0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)|double pointer (ingenious)|C++
+|0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|double pointer (ingenious), DP|C++
 |0043|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)|string ops|C++
-|0044|[Wildcard Matching](https://leetcode-cn.com/problems/wildcard-matching/)|regular expression, DP|C++
+|0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|regular expression, DP|C++
 |0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP|C++
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track|C++
 |0047|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)|recursion|C++
