@@ -53,7 +53,7 @@ This is the leetcode code track of Wendi.
 |0049|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)|string, hash|C++
 |0050|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|quick pow|C++
 |0051|[N-Queens](https://leetcode-cn.com/problems/n-queens/)|back track, recursion|C++
-|0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy|C++
+|0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|greedy, DP|C++
 |0054|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|matrix|C++
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)|DP|C++
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)|interval ops, sort|C++
