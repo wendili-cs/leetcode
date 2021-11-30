@@ -46,7 +46,7 @@ This is the leetcode code track of Wendi.
 |0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|double pointer (ingenious), DP|C++
 |0043|[Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/)|string ops|C++
 |0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|regular expression, DP|C++
-|0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP|C++
+|0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)|DP, BFS|C++
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)|recursion, back track|C++
 |0047|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/)|recursion|C++
 |0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)|matrix transform|C++
