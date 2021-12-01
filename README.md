@@ -245,6 +245,7 @@ This is the leetcode code track of Wendi.
 |0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
 |0526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|backtrace|C++
+|0529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|recursion, matrix|C++
 |0532|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)|hash|C++
 |0540|[Single Element in a Sorted Array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)|binary search|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
