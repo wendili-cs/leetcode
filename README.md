@@ -205,7 +205,7 @@ This is the leetcode code track of Wendi.
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
 |0370|[Range Addition](https://leetcode.com/problems/range-addition/)|`partial_sum`, array|C++
 |0377|[Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)|recursion, DP|C++
-|0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers|C++
+|0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers, recursion|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
 |0388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|string, recursion, prefix tree|C++
 |0392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|string|C++
