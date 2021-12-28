@@ -260,6 +260,7 @@ This is the leetcode code track of Wendi.
 |0593|[Valid Square](https://leetcode.com/problems/valid-square/)|math|C++
 |0605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)|greedy|Java
 |0611|[Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)|double pointer|C++
+|0616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/)|string|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
 |0628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|math|C++
 |0630|[Course Schedule III](https://leetcode-cn.com/problems/course-schedule-iii/)|greedy, heap|C++
