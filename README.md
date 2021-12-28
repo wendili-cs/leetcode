@@ -370,6 +370,7 @@ This is the leetcode code track of Wendi.
 |1834|[Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|priority queue, buffer|C++
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
+|1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
 |剑05|[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|string|C++
