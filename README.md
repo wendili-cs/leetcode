@@ -191,6 +191,7 @@ This is the leetcode code track of Wendi.
 |0328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)|link list|C++
 |0329|[Longest Increasing Path in a Matrix](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|recursion, DP|C++
 |0331|[Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)|binary tree|C++
+|0333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|binary tree, recursion|C++
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)|recursion, DP|C++
 |0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|binary|C++
 |0340|[Longest Substring with At Most K Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters/)|counter, double pointer|C++
