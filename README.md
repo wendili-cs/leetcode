@@ -242,6 +242,7 @@ This is the leetcode code track of Wendi.
 |0482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/)|string|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
 |0487|[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)|presum, double pointer|C++
+|0490|[The Maze](https://leetcode.com/problems/the-maze/)|matrix, BFS|C++
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
 |0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
@@ -433,6 +434,7 @@ This is the leetcode code track of Wendi.
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
+|1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
 |1628|[Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)|stack|C++
 |剑59|[II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|deque|C++
 
