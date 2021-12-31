@@ -310,6 +310,7 @@ This is the leetcode code track of Wendi.
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)|quick sort|C++
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)|stack, string|C++
 |0929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/)|string|C++
+|0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|DP, graph|C++
 |0937|[Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|string|C++
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|matrix, hash|C++
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
