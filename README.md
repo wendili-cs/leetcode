@@ -280,6 +280,7 @@ This is the leetcode code track of Wendi.
 |0681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/)|greedy|C++
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java, C++
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
+|0694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|matrix, recursion, hash|C++
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
 |0696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|string|C++
 |0697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|counter, hash|C++
