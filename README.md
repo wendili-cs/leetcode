@@ -182,6 +182,7 @@ This is the leetcode code track of Wendi.
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|伪link list环|C++
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/)|matrix|C++
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
+|0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|binary tree, recursion|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy|C++
 |0315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|binary index tree, `get_rank`|C++
