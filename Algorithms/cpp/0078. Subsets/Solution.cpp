@@ -1,23 +1,23 @@
 // https://leetcode-cn.com/problems/subsets/
+// https://leetcode.com/problems/subsets/
 
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> temp_list;
-        vector<vector<int> > res;
-        function<void(int)> dfs;
-        dfs = [&](int idx) -> void {
-            if(idx == nums.size()){
-                res.push_back(temp_list);
+        vector<vector<int>> res;
+        vector<int>temp;
+        function<void(int)> recur;
+        recur = [&](int l) -> void {
+            if(l >= nums.size()){
+                res.push_back(temp);
                 return;
             }
-            dfs(idx + 1);
-            temp_list.push_back(nums[idx]);
-            dfs(idx + 1);
-            temp_list.pop_back();
+            recur(l + 1);
+            temp.push_back(nums[l]);
+            recur(l + 1);
+            temp.pop_back();
         };
-        
-        dfs(0);
+        recur(0);
         return res;
     }
 };

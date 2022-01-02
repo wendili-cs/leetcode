@@ -74,6 +74,7 @@ This is the leetcode code track of Wendi.
 |0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)|sort, double pointer|C++
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointer, hash|C++
 |0077|[Combinations](https://leetcode-cn.com/problems/combinations/)|recursion|C++
+|0078|[Subsets](https://leetcode.com/problems/subsets/)|recursion|C++
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)|string, recursion|C++
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)|double pointer|C++
 |0081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|binary search, sliding|C++
@@ -435,6 +436,7 @@ This is the leetcode code track of Wendi.
 |0348|[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/)|game|C++
 |0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|map, hash|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
+|0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|hash, map|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
