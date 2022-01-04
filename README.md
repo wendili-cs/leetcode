@@ -248,6 +248,7 @@ This is the leetcode code track of Wendi.
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
 |0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
+|0518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|DP|C++
 |0526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|backtrace|C++
 |0529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|recursion, matrix|C++
 |0532|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)|hash|C++
@@ -295,6 +296,7 @@ This is the leetcode code track of Wendi.
 |0746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|DP|C++
 |0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`|C++
 |0765|[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)|disjoint set|C++
+|0767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|map, string|C++
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)|C++
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
 |0792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|string, hash|C++
