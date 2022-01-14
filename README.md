@@ -227,6 +227,7 @@ This is the leetcode code track of Wendi.
 |0417|[Pacific Atlantic Water Flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)|dfs, recursion, matrix|C++
 |0418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|DP, string|C++
 |0421|[Maximum XOR of Two Numbers in an Array](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/)|`XOR`, bit ops, hash|C++
+|0423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|hash, map, string|C++
 |0424|[Longest Repeating Character Replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)|string, double pointer|C++
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|binary tree, hash, heap|C++
 |0435|[Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/)|greedy|C++
