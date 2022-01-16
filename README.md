@@ -187,6 +187,7 @@ This is the leetcode code track of Wendi.
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|binary tree, recursion|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy|C++
+|0314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|hash, BFS, binary tree|C++
 |0315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|binary index tree, `get_rank`|C++
 |0316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)|string, stack|C++
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP|C++
