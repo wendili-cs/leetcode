@@ -171,7 +171,6 @@ This is the leetcode code track of Wendi.
 |0238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)|traverse|C++
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer|C++
 |0241|[Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)|string, recursion, DP|C++
-|0244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|hash, string, double pointer|C++
 |0253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/)|min heap|C++
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion|C++
 |0260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/)|binary ops|C++
@@ -436,11 +435,13 @@ This is the leetcode code track of Wendi.
 |0158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|buffer|C++
 |0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|prefix tree, recursion|C++
 |0211|[Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/)|prefix tree, recursion|C++
+|0244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|hash, string, double pointer|C++
 |0303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|prefix sum|C++
 |0304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|matrix, prefix sum|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
 |0348|[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/)|game|C++
 |0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|map, hash|C++
+|0362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|queue|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|hash, map|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
