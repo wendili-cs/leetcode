@@ -152,7 +152,7 @@ This is the leetcode code track of Wendi.
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)|link list|C++
 |0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)|dfs, graph, topological sort|C++
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|double pointer|C++
-|0210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)|topological sort|C++
+|0210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)|topological sort, graph|C++
 |0212|[Word Search II](https://leetcode-cn.com/problems/word-search-ii/)|prefix tree, string, backtrace|C++
 |0213|[House Robber II](https://leetcode-cn.com/problems/house-robber-ii/)|DP|C++
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|heap, quick sort|C++
