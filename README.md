@@ -297,6 +297,7 @@ This is the leetcode code track of Wendi.
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|stack|C++
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack|C++
 |0740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/)|DP, counter|C++
+|0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|BFS|C++
 |0746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|DP|C++
 |0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`|C++
 |0765|[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)|disjoint set|C++
@@ -443,6 +444,7 @@ This is the leetcode code track of Wendi.
 |0348|[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/)|game|C++
 |0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|map, hash|C++
 |0362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|queue|C++
+|0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|hash, array|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|hash, map|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
