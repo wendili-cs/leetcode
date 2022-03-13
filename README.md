@@ -449,6 +449,7 @@ This is the leetcode code track of Wendi.
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|hash, array|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|hash, map|C++
+|0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|binary search, `upper_bound`|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
