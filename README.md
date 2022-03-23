@@ -292,6 +292,7 @@ This is the leetcode code track of Wendi.
 |0696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|string|C++
 |0697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|counter, hash|C++
 |0698|[Partition to K Equal Sum Subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|DP, back trace|C++
+|0704|[Binary Search](https://leetcode.com/problems/binary-search/)|binary search|C++
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)|disjoint set, hash|C++
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|stack|C++
