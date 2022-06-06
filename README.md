@@ -394,6 +394,7 @@ This is the leetcode code track of Wendi.
 |2268|[Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/)|hash, string|C++
 |2269|[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|string|C++
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)|prefix sum|C++
+|2271|[Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/)|interval, prefix sum|C++
 |2282|[Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/)|binary search, monotonous stack|C++
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|hash|C++
 |2284|[Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|hash, max heap|C++
