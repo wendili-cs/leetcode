@@ -392,6 +392,8 @@ This is the leetcode code track of Wendi.
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|prefix sum|C++
 |2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)|matrix|C++
 |2268|[Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/)|hash, string|C++
+|2269|[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|string|C++
+|2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)|prefix sum|C++
 |2282|[Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/)|binary search, monotonous stack|C++
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|hash|C++
 |2284|[Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|hash, max heap|C++
