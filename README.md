@@ -387,6 +387,9 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|simple|C++
+|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|binary tree|C++
+|2237|[Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/)|interval|C++
 |2239|[Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)|array|C++
 |2240|[Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|enumeration|C++
 |2250|[Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)|binary search|C++
