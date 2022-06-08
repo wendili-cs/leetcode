@@ -471,6 +471,7 @@ This is the leetcode code track of Wendi.
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|hash, vector|C++
 |1628|[Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)|stack|C++
+|2241|[Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/)|greedy|C++
 |剑59|[II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|deque|C++
 
 <!-- ### Parallelization
