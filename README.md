@@ -388,6 +388,9 @@ This is the leetcode code track of Wendi.
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
 |2214|[Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/)|greedy|C++
+|2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|hash|C++
+|2216|[Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)|greedy|C++
+|2217|[Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/)|math, palindrome|C++
 |2219|[Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/)|prefix|C++
 |2220|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|`XOR`|C++
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|math|C++
