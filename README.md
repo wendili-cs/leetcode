@@ -387,6 +387,9 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2210|[Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)|array|C++
+|2211|[Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/)|stack|C++
+|2212|[Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)|backtrace|C++
 |2214|[Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/)|greedy|C++
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|hash|C++
 |2216|[Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)|greedy|C++
