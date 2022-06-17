@@ -387,9 +387,10 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2200|[Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)|array|C++
 |2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|array|C++
 |2207|[Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|greedy, string|C++
-|2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|greedy, heap|C++
+|2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|greedy, heap|C++cm
 |2210|[Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)|array|C++
 |2211|[Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/)|stack|C++
 |2212|[Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)|backtrace|C++
