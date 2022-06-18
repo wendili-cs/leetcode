@@ -387,6 +387,7 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2198|[Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/)|math|C++
 |2200|[Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)|array|C++
 |2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|array|C++
 |2207|[Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|greedy, string|C++
@@ -515,3 +516,4 @@ This is the leetcode code track of Wendi.
 |0197|[Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/)|`DATEDIFF`
 |1777|[Product's Price for Each Store](https://leetcode-cn.com/problems/products-price-for-each-store/)|`SUM`, `IF`
 |1873|[Calculate Special Bonus](https://leetcode-cn.com/problems/calculate-special-bonus/)|`IF`
+|2205|[The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/)|`BETWEEN`, `DISTINCT`
