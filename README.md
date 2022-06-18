@@ -388,6 +388,8 @@ This is the leetcode code track of Wendi.
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
 |2200|[Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)|array|C++
+|2201|[Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)|hash|C++
+|2202|[Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)|array|C++
 |2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|array|C++
 |2207|[Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|greedy, string|C++
 |2208|[Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|greedy, heap|C++cm
