@@ -387,6 +387,8 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2164|[Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)|array|C++
+|2165|[Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/)|string, sort|C++
 |2169|[Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/)|math|C++
 |2170|[Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/)|hash, greedy|C++
 |2171|[Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)|prefix sum, array|C++
@@ -514,6 +516,7 @@ This is the leetcode code track of Wendi.
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|hash, vector|C++
 |1628|[Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)|stack|C++
+|2166|[Design Bitset](https://leetcode.com/problems/design-bitset/)|string|C++
 |2241|[Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/)|greedy|C++
 |剑59|[II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|deque|C++
 
