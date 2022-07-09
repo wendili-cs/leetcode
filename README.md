@@ -387,6 +387,9 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2119|[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)|math|C++
+|2120|[Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/)|string, matrix|C++
+|2121|[Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/)|hash, array|C++
 |2124|[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)|string|C++
 |2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|string|C++
 |2126|[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)|greedy|C++
