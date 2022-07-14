@@ -387,6 +387,9 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2103|[Rings and Rods](https://leetcode.com/problems/rings-and-rods/)|string, hash|C++
+|2104|[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)|array|C++
+|2105|[Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)|array|C++
 |2107|[Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/)|sliding window, array, hash|C++
 |2108|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|string|C++
 |2109|[Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)|string|C++
