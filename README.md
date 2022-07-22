@@ -387,6 +387,7 @@ This is the leetcode code track of Wendi.
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|sort|C++
+|2098|[Subsequence of Size K With the Largest Even Sum](https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/)|max heap, array|C++
 |2099|[Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)|array, max heap|C++
 |2094|[Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)|array|C++
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|link list|C++
@@ -584,6 +585,7 @@ This is the leetcode code track of Wendi.
 |0184|[Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary/)|`MAX` from groups
 |0196|[Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/)|`DELETE`
 |0197|[Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/)|`DATEDIFF`
+|0595|[Big Countries](https://leetcode.com/problems/big-countries/)|
 |1777|[Product's Price for Each Store](https://leetcode-cn.com/problems/products-price-for-each-store/)|`SUM`, `IF`
 |1873|[Calculate Special Bonus](https://leetcode-cn.com/problems/calculate-special-bonus/)|`IF`
 |2205|[The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/)|`BETWEEN`, `DISTINCT`
