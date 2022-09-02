@@ -345,6 +345,7 @@ This is the leetcode code track of Wendi.
 |1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|disjoin set, Kruskal alg|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|sliding window, greedy|C++
+|1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|string, hash|C++
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|heap, `priority_queue`|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|backtrace, set|C++
