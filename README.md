@@ -369,6 +369,7 @@ This is the leetcode code track of Wendi.
 |1428|[Leftmost Column with at Least a One](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/)|matrix, binary search|C++
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|`XOR`, hash, truble pointer|C++
+|1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|DP, matrix, prefix sum|C++
 |1462|[Course Schedule IV](https://leetcode-cn.com/problems/course-schedule-iv/)|topological sort|C++
 |1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|greedy|C++
 |1480|[Running Sum of 1d Array](https://leetcode-cn.com/problems/running-sum-of-1d-array/)|`easy`|C++, Java
