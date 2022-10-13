@@ -75,7 +75,7 @@ This is the leetcode code track of Wendi.
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)|double pointer, hash|C++
 |0077|[Combinations](https://leetcode-cn.com/problems/combinations/)|recursion|C++
 |0078|[Subsets](https://leetcode.com/problems/subsets/)|recursion|C++
-|0079|[Word Search](https://leetcode-cn.com/problems/word-search/)|string, recursion|C++
+|0079|[Word Search](https://leetcode-cn.com/problems/word-search/)|string, recursion, DFS|C++
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)|double pointer|C++
 |0081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|binary search, sliding|C++
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list|C++
@@ -127,6 +127,7 @@ This is the leetcode code track of Wendi.
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)|XOR, hash|C++
 |0138|[Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|hash|C++
 |0139|[Word Break](https://leetcode-cn.com/problems/word-break/)|string, DP|C++
+|0140|[Word Break II](https://leetcode.com/problems/word-break-ii/solution/)|recursion|C++
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|link list, 快慢指针|C++
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|link list, 快慢指针|C++
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list|C++
@@ -298,6 +299,7 @@ This is the leetcode code track of Wendi.
 |0704|[Binary Search](https://leetcode.com/problems/binary-search/)|binary search|C++
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)|disjoint set, hash|C++
+|0723|[Candy Crush](https://leetcode.com/problems/candy-crush/)|matrix, recursion|C++
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|stack|C++
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)|stack|C++
 |0740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/)|DP, counter|C++
@@ -367,6 +369,7 @@ This is the leetcode code track of Wendi.
 |1310|[XOR Queries of a Subarray](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)|`XOR`, prefix sum|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|binary tree, recursion|C++
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|string, hash|C++
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops, `priority queue`, greedy|C++
 |1388|[Pizza With 3n Slices](https://leetcode-cn.com/problems/pizza-with-3n-slices/)|DP, greedy|C++
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
@@ -582,6 +585,7 @@ This is the leetcode code track of Wendi.
 |1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|heap, hash|C++
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
 |1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|hash, string|C++
+|1472|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|list, iterator|C++
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|hash, vector|C++
 |1628|[Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/)|stack|C++
 |1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|array|C++
