@@ -309,6 +309,7 @@ This is the leetcode code track of Wendi.
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)|C++
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
 |0792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|string, hash|C++
+|0797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|graph, BFS, DFS|C++
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra|C++
 |0819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)|string, hash|C++
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
@@ -351,6 +352,7 @@ This is the leetcode code track of Wendi.
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|sliding window, greedy|C++
 |1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|string, hash|C++
+|1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|string|C++
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|heap, `priority_queue`|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|stack, string|C++
@@ -358,6 +360,7 @@ This is the leetcode code track of Wendi.
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)|string, stack|C++
 |1250|[Check If It Is a Good Array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/)|gcd, math|C++
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|prefix tree, string, dfs|C++
+|1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/)|recursion|C++
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|matrix, DP|C++
 |1278|[Palindrome Partitioning III](https://leetcode-cn.com/problems/palindrome-partitioning-iii/)|DP, string|C++
 |1305|[All Elements in Two Binary Search Trees](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)|binary tree, dfs|C++
@@ -562,6 +565,7 @@ This is the leetcode code track of Wendi.
 |0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|prefix tree, recursion|C++
 |0211|[Design Add and Search Words Data Structure](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/)|prefix tree, recursion|C++
 |0244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|hash, string, double pointer|C++
+|0284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|iterator|C++
 |0303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|prefix sum|C++
 |0304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|matrix, prefix sum|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
@@ -575,6 +579,7 @@ This is the leetcode code track of Wendi.
 |0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|binary search, `upper_bound`|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
+|1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|heap, hash|C++
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
 |1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|hash, string|C++
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|hash, vector|C++
