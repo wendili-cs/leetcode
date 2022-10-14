@@ -316,6 +316,7 @@ This is the leetcode code track of Wendi.
 |0819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)|string, hash|C++
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
 |0853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|math, greedy|C++
+|0858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|math, lcd, gcd|C++
 |0863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|binary tree, recursion|C++
 |0867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|matrix|C++
 |0872|[Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/)|binary tree, dfs|C++
@@ -388,6 +389,7 @@ This is the leetcode code track of Wendi.
 |1539|[Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/)|pointer|C++
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|string|C++
 |1644|[Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/)|binary tree, BFS|C++
 |1648|[Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|math|C++
 |1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)|hash, recursion, binary tree|C++
@@ -400,6 +402,7 @@ This is the leetcode code track of Wendi.
 |1787|[Make the XOR of All Segments Equal to Zero](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|`XOR`, hash, DP|C++
 |1818|[Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|binary search, greedy|C++
 |1822|[Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)||C++
+|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|math|C++
 |1834|[Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|priority queue, buffer|C++
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++

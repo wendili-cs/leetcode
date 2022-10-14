@@ -13,35 +13,32 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        stack<char>ll1, ll2;
+        stack<int> stk1, stk2;
         while(l1){
-            ll1.push(l1->val);
+            stk1.push(l1->val);
             l1 = l1->next;
         }
         while(l2){
-            ll2.push(l2->val);
-            l2 = l2->next;
+            stk2.push(l2->val);
+            l2 = l2->next == nullptr? nullptr:l2->next;
         }
-        ListNode *cur = nullptr;
-        bool sign = false;
-        while(!ll1.empty()||!ll2.empty()||sign){
-            int num1, num2, sum;
-            if(!ll1.empty()){
-                num1 = ll1.top();
-                ll1.pop();
+        int addition = 0;
+        ListNode* cur = nullptr;
+        while(!stk1.empty() || !stk2.empty() || addition == 1){
+            int n1 = 0, n2 = 0;
+            if(!stk1.empty()){
+                n1 = stk1.top();
+                stk1.pop();
             }
-            else num1 = 0;
-            if(!ll2.empty()){
-                num2 = ll2.top();
-                ll2.pop();
+            if(!stk2.empty()){
+                n2 = stk2.top();
+                stk2.pop();
             }
-            else num2 = 0;
-            sum = num1 + num2 + sign;
-            sign = sum > 9;
-            
-            ListNode* temp = new ListNode(sum % 10);
-            temp->next = cur;
-            cur = temp;
+            int val = (n1 + n2 + addition)%10;
+            addition =  (n1 + n2 + addition)/10;
+            ListNode* node = new ListNode(val);
+            node->next = cur;
+            cur = node;
         }
         return cur;
     }
