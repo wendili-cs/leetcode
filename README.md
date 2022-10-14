@@ -358,6 +358,7 @@ This is the leetcode code track of Wendi.
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|heap, `priority_queue`|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|stack, string|C++
+|1236|[Web Crawler](https://leetcode.com/problems/web-crawler/)|recursion, string, hash|C++
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|backtrace, set|C++
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)|string, stack|C++
 |1250|[Check If It Is a Good Array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/)|gcd, math|C++
@@ -581,6 +582,7 @@ This is the leetcode code track of Wendi.
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|hash, map|C++
 |0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|binary search, `upper_bound`|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
+|0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|stack, counter, hash|C++
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
 |1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|heap, hash|C++
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|prefix|C++
