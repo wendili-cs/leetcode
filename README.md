@@ -278,6 +278,7 @@ This is the leetcode code track of Wendi.
 |0616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/)|string|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
 |0628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|math|C++
+|0629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|DP, array|C++
 |0630|[Course Schedule III](https://leetcode-cn.com/problems/course-schedule-iii/)|greedy, heap|C++
 |0633|[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/)|hash, double pointer|C++
 |0643|[Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|sliding window|C++
@@ -348,6 +349,7 @@ This is the leetcode code track of Wendi.
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|DP, dfs, string|C++
 |1049|[Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii/)|recursion, DP|C++
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|greedy|C++
+|1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|disjoint set, string|C++
 |1062|[Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)|string, hash, binary search|C++
 |1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|binary tree, recursion|C++
