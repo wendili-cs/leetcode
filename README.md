@@ -133,6 +133,7 @@ This is the leetcode code track of Wendi.
 |0143|[Reorder List](https://leetcode-cn.com/problems/reorder-list/)|link list|C++
 |0145|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|binary tree, traversal, recurion|C++
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list/)|link list, merge sort|C++
+|0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|hash|C++
 |0150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)|string, stack|C++
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|string, stack|C++
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|DP|C++
@@ -357,6 +358,7 @@ This is the leetcode code track of Wendi.
 |1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|string, hash|C++
 |1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|string|C++
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|heap, `priority_queue`|C++
+|1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|math|C++
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|stack, string|C++
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|stack, string|C++
 |1236|[Web Crawler](https://leetcode.com/problems/web-crawler/)|recursion, string, hash|C++
@@ -583,6 +585,7 @@ This is the leetcode code track of Wendi.
 |0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|hash, set, array|C++
 |0384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/)|random|C++
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|hash, map|C++
+|0428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|recursion, dfs, string, stringstream|C++
 |0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|binary search, `upper_bound`|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|stack, counter, hash|C++
