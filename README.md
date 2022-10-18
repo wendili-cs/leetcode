@@ -222,6 +222,7 @@ This is the leetcode code track of Wendi.
 |0393|[UTF-8 Validation](https://leetcode-cn.com/problems/utf-8-validation/)|string|C++
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack|C++
 |0395|[Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|recursion, binary search|C++
+|0400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|math|C++
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string|C++
 |0403|[Frog Jump](https://leetcode-cn.com/problems/frog-jump/)|DP|C++
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)|insert, sort|C++
@@ -395,6 +396,7 @@ This is the leetcode code track of Wendi.
 |1644|[Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/)|binary tree, BFS|C++
 |1648|[Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|math|C++
 |1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)|hash, recursion, binary tree|C++
+|1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|prefix sum, greedy, array|C++
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|hash|C++
 |1720|[Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/)|`XOR`|C++
 |1730|[Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/)|BFS|C++
