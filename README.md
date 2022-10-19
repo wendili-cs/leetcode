@@ -334,6 +334,7 @@ This is the leetcode code track of Wendi.
 |0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/)|DP, graph|C++
 |0937|[Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/)|string|C++
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|matrix, hash|C++
+|0945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|greedy, array|C++
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|map, string|C++
