@@ -2,6 +2,12 @@
 This is the leetcode code track of Wendi.
 
 ## Algorithms
+### Contest
+| # | Title | Comment | Language |
+|---| ----- | ------- | -------- |
+|2829|[Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/contest/weekly-contest-359/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)|math|C++
+|7006|[Maximize the Profit as the Salesman](https://leetcode.com/contest/weekly-contest-359/problems/maximize-the-profit-as-the-salesman/)|DP,array|C++
+### Exercise
 | # | Title | Comment | Language |
 |---| ----- | ------- | -------- |
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|hash|C++
