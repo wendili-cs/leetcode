@@ -7,6 +7,7 @@ This is the leetcode code track of Wendi.
 |---| ----- | ------- | -------- |
 |2829|[Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/contest/weekly-contest-359/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)|math|C++
 |7006|[Maximize the Profit as the Salesman](https://leetcode.com/contest/weekly-contest-359/problems/maximize-the-profit-as-the-salesman/)|DP,array|C++
+|2834|[Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/contest/weekly-contest-360/problems/find-the-minimum-possible-sum-of-a-beautiful-array/)|math|C++
 ### Exercise
 | # | Title | Comment | Language |
 |---| ----- | ------- | -------- |
