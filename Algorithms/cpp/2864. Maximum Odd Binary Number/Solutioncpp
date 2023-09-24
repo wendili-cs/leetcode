@@ -1,0 +1,21 @@
+// https://leetcode.com/contest/weekly-contest-364/problems/maximum-odd-binary-number/
+
+class Solution {
+public:
+    string maximumOddBinaryNumber(string s) {
+        int one = 0, zero = 0;
+        for(char c:s){
+            if(c == '1') one++;
+            else if(c == '0') zero++;
+        }
+        string res = "";
+        for(int i = 0; i < one - 1; i++){
+            res.push_back('1');
+        }
+        for(int i = 0; i < zero; i ++){
+            res.push_back('0');
+        }
+        res.push_back('1');
+        return res;
+    }
+};
