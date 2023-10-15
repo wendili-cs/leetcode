@@ -537,6 +537,7 @@ This is the leetcode code track of Wendi.
 |2894|[Divisible and Non-divisible Sums Difference](https://leetcode.com/contest/weekly-contest-366/problems/divisible-and-non-divisible-sums-difference/)|math|C++
 |2895|[Minimum Processing Time](https://leetcode.com/contest/weekly-contest-366/problems/minimum-processing-time/)|array|C++
 |2897|[Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/contest/weekly-contest-366/problems/apply-operations-on-array-to-maximize-sum-of-squares/)|bit, math|C++
+|2905|[Find Indices With Index and Value Difference II](https://leetcode.com/contest/weekly-contest-367/problems/find-indices-with-index-and-value-difference-ii/)|set, array|C++
 |100048|[Beautiful Towers II](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-ii/)|monotonous stack|C++
 |100049|[Beautiful Towers I](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-i/)|monotonous stack|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
