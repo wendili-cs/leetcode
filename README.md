@@ -184,6 +184,7 @@ This is the leetcode code track of Wendi.
 |0249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|string, map, hash|C++
 |0253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/)|min heap|C++
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion|C++
+|0259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|array, binary search, two pointers|C++
 |0260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/)|binary ops|C++
 |0263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer|C++
@@ -294,6 +295,7 @@ This is the leetcode code track of Wendi.
 |0662|[Maximum Width of Binary Tree](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)|binary tree, queue|C++
 |0664|[Strange Printer](https://leetcode-cn.com/problems/strange-printer/)|string, DP|C++
 |0665|[Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/)|recursion, back trace|C++
+|0666|[Path Sum IV](https://leetcode.com/problems/path-sum-iv/|array, binary tree|C++
 |0670|[Maximum Swap](https://leetcode-cn.com/problems/maximum-swap/)|number|Java
 |0678|[Valid Parenthesis String](https://leetcode-cn.com/problems/valid-parenthesis-string/)|string, stack|C++
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
@@ -322,6 +324,7 @@ This is the leetcode code track of Wendi.
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
 |0792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|string, hash|C++
 |0797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|graph, BFS, DFS|C++
+|0799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|DP, math|C++
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra|C++
 |0819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)|string, hash|C++
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
@@ -399,6 +402,7 @@ This is the leetcode code track of Wendi.
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|hash, counter|C++
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||C++
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|greedy|C++
+|1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|binary tree, recursion|C++
 |1539|[Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/)|pointer|C++
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
@@ -519,6 +523,7 @@ This is the leetcode code track of Wendi.
 |2255|[Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|string|C++
 |2256|[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|prefix sum|C++
 |2257|[Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)|matrix|C++
+|2263|[Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/description/)|math,max heap|C++
 |2268|[Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/)|hash, string|C++
 |2269|[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|string|C++
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)|prefix sum|C++
@@ -610,6 +615,7 @@ This is the leetcode code track of Wendi.
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|hash, map|C++
 |0428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|recursion, dfs, string, stringstream|C++
 |0528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|binary search, `upper_bound`|C++
+|0588|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)|prefix tree (tries)|C++
 |0707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/)|link list|C++
 |0895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|stack, counter, hash|C++
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)|hash map|C++
