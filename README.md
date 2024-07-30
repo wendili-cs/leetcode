@@ -36,7 +36,7 @@ This is the leetcode code track of Wendi.
 |0025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|link list|C++
 |0026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|double pointer|C++
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|pointer|C++
-|0028|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)|string|Java
+|0028|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)|string|Java, C++
 |0029|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)|bits ops|C++
 |0030|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)|string, hash|C++
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|double pointer swap|C++
@@ -364,6 +364,7 @@ This is the leetcode code track of Wendi.
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|disjoint set, string|C++
 |1062|[Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)|string, hash, binary search|C++
 |1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
+|1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/)|matrix, max heap, BFS|C++
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|binary tree, recursion|C++
 |1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|recursion, binary tree|C++
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|binary tree, recursion|C++
@@ -409,6 +410,7 @@ This is the leetcode code track of Wendi.
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
 |1603|[Design Parking System](https://leetcode-cn.com/problems/design-parking-system/)|`easy`|C++
 |1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|string|C++
+|1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)|matrix, max heap, BFS|C++
 |1644|[Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/)|binary tree, BFS|C++
 |1648|[Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|math|C++
 |1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)|hash, recursion, binary tree|C++
