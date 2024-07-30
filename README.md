@@ -91,6 +91,7 @@ This is the leetcode code track of Wendi.
 |0085|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)|monotonous stack|C++
 |0086|[Partition List](https://leetcode-cn.com/problems/partition-list/)|link list|C++
 |0088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|double pointer|C++
+|0089|[Gray Code](https://leetcode.com/problems/gray-code/description/)|recursion, array|C++
 |0090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/)|recursion|C++
 |0091|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/)|DP|C++
 |0092|[Reverse Linked List II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|link list|C++
@@ -386,6 +387,7 @@ This is the leetcode code track of Wendi.
 |1305|[All Elements in Two Binary Search Trees](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/)|binary tree, dfs|C++
 |1310|[XOR Queries of a Subarray](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)|`XOR`, prefix sum|C++
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|bit ops|C++
+|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|graph, Floyd-Warshall's algorithm
 |1339|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|binary tree, recursion|C++
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|string, hash|C++
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops, `priority queue`, greedy|C++
@@ -605,6 +607,7 @@ This is the leetcode code track of Wendi.
 |0284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|iterator|C++
 |0303|[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|prefix sum|C++
 |0304|[Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|matrix, prefix sum|C++
+|0307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|Binary Index Tree, array|C++
 |0341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)|dfs|C++
 |0348|[Design Tic-Tac-Toe](https://leetcode-cn.com/problems/design-tic-tac-toe/)|game|C++
 |0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|map, hash|C++
