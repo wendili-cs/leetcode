@@ -155,7 +155,8 @@ This is the leetcode code track of Wendi.
 |0179|[Largest Number](https://leetcode-cn.com/problems/largest-number/)|string, sort|C++
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|greedy|C++
 |0189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|array rotate|C++
-|0191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)|bit ops|Java
+|0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|bit ops|C++
+|0191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)|bit ops|Java, C++
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|binary tree, queue|C++
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)|recursion|C++
 |0203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)|link list|C++
