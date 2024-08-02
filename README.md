@@ -327,7 +327,7 @@ This is the leetcode code track of Wendi.
 |0792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|string, hash|C++
 |0797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|graph, BFS, DFS|C++
 |0799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/)|DP, math|C++
-|0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra|C++
+|0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra, BFS|C++
 |0819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)|string, hash|C++
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
 |0853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|math, greedy|C++
