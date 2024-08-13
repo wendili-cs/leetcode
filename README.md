@@ -256,6 +256,7 @@ This is the leetcode code track of Wendi.
 |0443|[String Compression](https://leetcode-cn.com/problems/string-compression/)|string, counter|C++
 |0445|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|link list, stack|C++
 |0448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|for loop|C++
+|0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|BST, binary tree, recursion|C++
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy|C++
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
 |0459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)|string|C++
@@ -598,6 +599,7 @@ This is the leetcode code track of Wendi.
 |面16.26|[Calculator LCCI](https://leetcode-cn.com/problems/calculator-lcci/)|string, stack|C++
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer|C++
 |面17.24|[Max Submatrix LCCI](https://leetcode-cn.com/problems/max-submatrix-lcci/)|greedy, prefix sum, matrix|C++
+|DP-8|[Matrix Chain Multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)|DP, matrix|C++
 
 ## Data Structure
 | # | Title | Comment | Language |
