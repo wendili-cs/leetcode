@@ -186,6 +186,7 @@ This is the leetcode code track of Wendi.
 |0241|[Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)|string, recursion, DP|C++
 |0249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|string, map, hash|C++
 |0253|[Meeting Rooms II](https://leetcode-cn.com/problems/meeting-rooms-ii/)|min heap|C++
+|0256|[Paint House](https://leetcode.com/problems/paint-house/)|DP|C++
 |0257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/)|binary tree, recursion|C++
 |0259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|array, binary search, two pointers|C++
 |0260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/)|binary ops|C++
@@ -270,6 +271,7 @@ This is the leetcode code track of Wendi.
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
 |0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
 |0509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/)|DP|C++
+|0516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)|DP, string, palindromic|C++
 |0518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|DP|C++
 |0526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|backtrace|C++
 |0529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|recursion, matrix|C++
