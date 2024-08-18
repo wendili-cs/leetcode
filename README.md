@@ -191,7 +191,7 @@ This is the leetcode code track of Wendi.
 |0259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|array, binary search, two pointers|C++
 |0260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/)|binary ops|C++
 |0263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
-|0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer|C++
+|0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer, math|C++
 |0269|[Alien Dictionary](https://leetcode-cn.com/problems/alien-dictionary/)|topological sort|C++
 |0273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/)|string, recursion|C++
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count|C++
@@ -199,6 +199,7 @@ This is the leetcode code track of Wendi.
 |0278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|binary search|C++
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)|伪link list环|C++
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/)|matrix|C++
+|0291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|string, hash, recursion, dfs|C++
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|binary tree, recursion|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
@@ -206,6 +207,7 @@ This is the leetcode code track of Wendi.
 |0314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|hash, BFS, binary tree|C++
 |0315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|binary index tree, `get_rank`|C++
 |0316|[Remove Duplicate Letters](https://leetcode-cn.com/problems/remove-duplicate-letters/)|string, stack|C++
+|0317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|BFS, matrix|C++
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)|DP|C++
 |0323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|disjoin set|C++
 |0328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)|link list|C++
@@ -230,6 +232,7 @@ This is the leetcode code track of Wendi.
 |0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers, recursion|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
 |0388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|string, recursion, prefix tree|C++
+|0390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|simuation, math|C++
 |0392|[Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|string|C++
 |0393|[UTF-8 Validation](https://leetcode-cn.com/problems/utf-8-validation/)|string|C++
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack|C++
@@ -285,6 +288,7 @@ This is the leetcode code track of Wendi.
 |0556|[Next Greater Element III](https://leetcode-cn.com/problems/next-greater-element-iii/)|double pointer, ``#0031``|C++
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
+|0565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|simuation, array|C++
 |0567|[Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/)|string, counter|C++
 |0593|[Valid Square](https://leetcode.com/problems/valid-square/)|math|C++
 |0605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/)|greedy|Java
@@ -355,6 +359,7 @@ This is the leetcode code track of Wendi.
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|map, string|C++
 |0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
+|0993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|binary tree, BFS|C++
 |0994|[Rotting Oranges](https://leetcode-cn.com/problems/rotting-oranges/)|matrix, BFS|C++
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|binary search|C++
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|hash|C++
