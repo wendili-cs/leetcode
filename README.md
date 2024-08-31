@@ -201,6 +201,7 @@ This is the leetcode code track of Wendi.
 |0289|[Game of Life](https://leetcode.com/problems/game-of-life/)|matrix|C++
 |0291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|string, hash, recursion, dfs|C++
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
+|0296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|sort, matrix|C++
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|binary tree, recursion|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy|C++
@@ -229,6 +230,7 @@ This is the leetcode code track of Wendi.
 |0368|[Largest Divisible Subset](https://leetcode-cn.com/problems/largest-divisible-subset/)|DP|C++
 |0370|[Range Addition](https://leetcode.com/problems/range-addition/)|`partial_sum`, array|C++
 |0377|[Combination Sum IV](https://leetcode-cn.com/problems/combination-sum-iv/)|recursion, DP|C++
+|0378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|max heap, matrix|C++
 |0386|[Lexicographical Numbers](https://leetcode-cn.com/problems/lexicographical-numbers/)|numbers, recursion|C++
 |0387|[First Unique Character in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|hash|C++
 |0388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|string, recursion, prefix tree|C++
