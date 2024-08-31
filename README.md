@@ -550,6 +550,7 @@ This is the leetcode code track of Wendi.
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|max heap, graph|C++
 |2289|[Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/)|DP|C++
 |2305|[Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)|backtrace|C++
+|2334|[Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)|subarray, monotonous stack|C++
 |2369|[Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)|DP|C++
 |2370|[Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)|DP|C++
 |2375|[Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)|string, greedy|C++
@@ -608,7 +609,10 @@ This is the leetcode code track of Wendi.
 |面16.26|[Calculator LCCI](https://leetcode-cn.com/problems/calculator-lcci/)|string, stack|C++
 |面17.21|[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)|double pointer|C++
 |面17.24|[Max Submatrix LCCI](https://leetcode-cn.com/problems/max-submatrix-lcci/)|greedy, prefix sum, matrix|C++
-|DP-8|[Matrix Chain Multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)|DP, matrix|C++
+|DP|[Matrix Chain Multiplication](https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/)|DP, matrix|C++
+|Heap|[How to check if a given array represents a Binary Heap](https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/)|array, heap|C++
+|Hash|[Print all subarrays with 0 sum](https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/)|hash, array|C++
+
 
 ## Data Structure
 | # | Title | Comment | Language |
