@@ -204,6 +204,7 @@ This is the leetcode code track of Wendi.
 |0296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|sort, matrix|C++
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|binary tree, recursion|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
+|0305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|disjoint set|C++
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy|C++
 |0314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|hash, BFS, binary tree|C++
 |0315|[Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)|binary index tree, `get_rank`|C++
@@ -214,6 +215,7 @@ This is the leetcode code track of Wendi.
 |0328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/)|link list|C++
 |0329|[Longest Increasing Path in a Matrix](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)|recursion, DP|C++
 |0331|[Verify Preorder Serialization of a Binary Tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)|binary tree|C++
+|0332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|graph, dfs, recursion|C++
 |0333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|binary tree, recursion|C++
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)|recursion, DP|C++
 |0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|binary|C++
@@ -380,7 +382,7 @@ This is the leetcode code track of Wendi.
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|binary tree, recursion|C++
 |1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|recursion, binary tree|C++
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|binary tree, recursion|C++
-|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|disjoin set, Kruskal alg|C++
+|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)|disjoint set, Kruskal alg|C++
 |1143|[Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)|string, DP|C++
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|sliding window, greedy|C++
 |1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)|string, hash|C++
