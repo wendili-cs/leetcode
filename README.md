@@ -440,6 +440,7 @@ This is the leetcode code track of Wendi.
 |1818|[Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|binary search, greedy|C++
 |1822|[Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)||C++
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|math|C++
+|1825|[Finding MK Average](https://leetcode.com/problems/finding-mk-average/)|max heap, min heap, multiset, stream|C++
 |1834|[Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|priority queue, buffer|C++
 |1849|[Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/)|backtrace, recursion|C++
 |1915|[Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)|DP, bitmask|C++
