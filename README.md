@@ -182,6 +182,7 @@ This is the leetcode code track of Wendi.
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|binary tree, recursion, BFS|C++
 |0237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|link list|C++
 |0238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)|traverse|C++
+|0239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|max heap, monotonic queue|C++
 |0240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|matrix, pointer|C++
 |0241|[Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)|string, recursion, DP|C++
 |0249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|string, map, hash|C++
@@ -284,6 +285,7 @@ This is the leetcode code track of Wendi.
 |0529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|recursion, matrix|C++
 |0532|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/)|hash|C++
 |0540|[Single Element in a Sorted Array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)|binary search|C++
+|0542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|matrix, BFS|C++
 |0543|[Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|binary tree, recursion|C++
 |0545|[Boundary of Binary Tree](https://leetcode-cn.com/problems/boundary-of-binary-tree/)|binary tree, recursion|C++
 |0546|[Remove Boxes](https://leetcode-cn.com/problems/remove-boxes/)|DP, recursion|C++
@@ -556,6 +558,7 @@ This is the leetcode code track of Wendi.
 |2289|[Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/)|DP|C++
 |2305|[Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)|backtrace|C++
 |2334|[Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)|subarray, monotonous stack|C++
+|2354|[Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)|bits, hash|C++
 |2369|[Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)|DP|C++
 |2370|[Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)|DP|C++
 |2375|[Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)|string, greedy|C++
