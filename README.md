@@ -323,7 +323,7 @@ This is the leetcode code track of Wendi.
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
 |0696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|string|C++
 |0697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|counter, hash|C++
-|0698|[Partition to K Equal Sum Subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|DP, back trace|C++
+|0698|[Partition to K Equal Sum Subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)|DP, backtracking|C++
 |0704|[Binary Search](https://leetcode.com/problems/binary-search/)|binary search|C++
 |0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)|DP|C++
 |0721|[Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/)|disjoint set, hash|C++
@@ -422,6 +422,7 @@ This is the leetcode code track of Wendi.
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|hash, counter|C++
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)||C++
 |1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|greedy|C++
+|1526|[Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)|DP|C++
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|binary tree, recursion|C++
 |1539|[Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/)|pointer|C++
 |1553|[Minimum Number of Days to Eat N Oranges](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/)|DP, recursion|C++
@@ -438,6 +439,7 @@ This is the leetcode code track of Wendi.
 |1734|[Decode XORed Permutation](https://leetcode-cn.com/problems/decode-xored-permutation/)|`XOR`|C++
 |1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|prefix sum|C++
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)|traverse|C++
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|string, two pointer|C++
 |1787|[Make the XOR of All Segments Equal to Zero](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|`XOR`, hash, DP|C++
 |1818|[Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|binary search, greedy|C++
 |1822|[Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)||C++
@@ -570,6 +572,9 @@ This is the leetcode code track of Wendi.
 |2905|[Find Indices With Index and Value Difference II](https://leetcode.com/contest/weekly-contest-367/problems/find-indices-with-index-and-value-difference-ii/)|set, array|C++
 |2925|[Maximum Score After Applying Operations on a Tree](https://leetcode.com/contest/weekly-contest-370/problems/maximum-score-after-applying-operations-on-a-tree/)|tree, topology|C++
 |2933|[High-Access Employees](https://leetcode.com/contest/weekly-contest-371/problems/high-access-employees/)|string, array|C++
+|2955|[Number of Same-End Substrings](https://leetcode.com/problems/number-of-same-end-substrings/)|string, hash|C++
+|2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)|string, substring, hash|C++
+|3026|[Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)|prefix sum, array, subarray|C++
 |100048|[Beautiful Towers II](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-ii/)|monotonous stack|C++
 |100049|[Beautiful Towers I](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-i/)|monotonous stack|C++
 |100142|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/contest/weekly-contest-373/problems/make-lexicographically-smallest-array-by-swapping-elements/)|array, map, set|C++
