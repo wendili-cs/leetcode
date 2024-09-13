@@ -344,6 +344,7 @@ This is the leetcode code track of Wendi.
 |0815|[Bus Routes](https://leetcode-cn.com/problems/bus-routes/)|graph, dijkstra, BFS|C++
 |0819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/)|string, hash|C++
 |0832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|matrix|C++
+|0843|[Guess the Word](https://leetcode.com/problems/guess-the-word/)|string, math, game theory|C++
 |0853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|math, greedy|C++
 |0858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|math, lcd, gcd|C++
 |0863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|binary tree, recursion|C++
