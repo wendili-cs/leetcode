@@ -242,6 +242,7 @@ This is the leetcode code track of Wendi.
 |0393|[UTF-8 Validation](https://leetcode-cn.com/problems/utf-8-validation/)|string|C++
 |0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)|string, stack|C++
 |0395|[Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|recursion, binary search|C++
+|0399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|dfs, string|C++
 |0400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|math|C++
 |0402|[Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/)|string|C++
 |0403|[Frog Jump](https://leetcode-cn.com/problems/frog-jump/)|DP|C++
