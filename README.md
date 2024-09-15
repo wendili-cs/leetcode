@@ -205,6 +205,7 @@ This is the leetcode code track of Wendi.
 |0296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|sort, matrix|C++
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|binary tree, recursion|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
+|0301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|string, BFS, recursion|C++
 |0305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|disjoint set|C++
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|greedy|C++
 |0314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|hash, BFS, binary tree|C++
@@ -271,11 +272,13 @@ This is the leetcode code track of Wendi.
 |0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
 |0459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)|string|C++
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)|binary ops|C++
+|0465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|dfs, recursion, array|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0474|[Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)|DP, matrix|C++
 |0482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/)|string|C++
 |0485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/)|counter|C++
 |0487|[Max Consecutive Ones II](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)|presum, double pointer|C++
+|0489|[Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|dfs, backtracking|C++
 |0490|[The Maze](https://leetcode.com/problems/the-maze/)|matrix, BFS|C++
 |0498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|matrix|C++
 |0503|[Next Greater Element II](https://leetcode-cn.com/problems/next-greater-element-ii/)|greedy|C++
@@ -337,6 +340,7 @@ This is the leetcode code track of Wendi.
 |0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`|C++
 |0765|[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)|disjoint set|C++
 |0767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|map, string|C++
+|0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|BFS, matrix|C++
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)|C++
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
 |0792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|string, hash|C++
