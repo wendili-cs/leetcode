@@ -379,6 +379,7 @@ This is the leetcode code track of Wendi.
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|array, greedy|C++
 |1035|[Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/)|DP|C++
 |1041|[Robot Bounded In Circle](https://leetcode-cn.com/problems/robot-bounded-in-circle/)|vector|C++
+|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|BFS, graph|C++
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)|string|C++
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|DP, dfs, string|C++
 |1049|[Last Stone Weight II](https://leetcode-cn.com/problems/last-stone-weight-ii/)|recursion, DP|C++
