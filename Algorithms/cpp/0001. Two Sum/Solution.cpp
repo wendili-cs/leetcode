@@ -6,7 +6,6 @@ public:
         unordered_map<int, int> Q2A;
         for(int i = 0; i < nums.size(); i++){
             auto iter = Q2A.find(target - nums[i]);
-            bool debug_test = (iter == Q2A.end());
             if(iter != Q2A.end()){
                 return {iter->second, i};
             }
