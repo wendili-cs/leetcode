@@ -445,6 +445,7 @@ This is the leetcode code track of Wendi.
 |1730|[Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/)|BFS|C++
 |1734|[Decode XORed Permutation](https://leetcode-cn.com/problems/decode-xored-permutation/)|`XOR`|C++
 |1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)|prefix sum|C++
+|1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|string|C++
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)|traverse|C++
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|string, two pointer|C++
 |1787|[Make the XOR of All Segments Equal to Zero](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|`XOR`, hash, DP|C++
@@ -691,6 +692,7 @@ This is the leetcode code track of Wendi.
 |0196|[Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/)|`DELETE`
 |0197|[Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/)|`DATEDIFF`
 |0595|[Big Countries](https://leetcode.com/problems/big-countries/)|
+|1729|[Find Followers Count](https://leetcode.com/problems/find-followers-count/)|`GROUP BY`, `COUNT`
 |1777|[Product's Price for Each Store](https://leetcode-cn.com/problems/products-price-for-each-store/)|`SUM`, `IF`
 |1873|[Calculate Special Bonus](https://leetcode-cn.com/problems/calculate-special-bonus/)|`IF`
 |2205|[The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/)|`BETWEEN`, `DISTINCT`
