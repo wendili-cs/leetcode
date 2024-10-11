@@ -574,6 +574,7 @@ This is the leetcode code track of Wendi.
 |2369|[Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)|DP|C++
 |2370|[Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)|DP|C++
 |2375|[Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)|string, greedy|C++
+|2502|[Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/)|array, simulation, hash|C++
 |2572|[Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)|bit, DP|C++
 |2864|[Maximum Odd Binary Number](https://leetcode.com/contest/weekly-contest-364/problems/maximum-odd-binary-number/)|string|C++
 |2894|[Divisible and Non-divisible Sums Difference](https://leetcode.com/contest/weekly-contest-366/problems/divisible-and-non-divisible-sums-difference/)|math|C++
