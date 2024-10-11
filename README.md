@@ -87,8 +87,8 @@ This is the leetcode code track of Wendi.
 |0081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|binary search, sliding|C++
 |0082|[Remove Duplicates from Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)|link list|C++
 |0083|[Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|link list|C++
-|0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|mono stack|C++
-|0085|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)|monotonous stack|C++
+|0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|monotonic stack|C++
+|0085|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/)|monotonic stack|C++
 |0086|[Partition List](https://leetcode-cn.com/problems/partition-list/)|link list|C++
 |0088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|double pointer|C++
 |0089|[Gray Code](https://leetcode.com/problems/gray-code/description/)|recursion, array|C++
@@ -269,10 +269,11 @@ This is the leetcode code track of Wendi.
 |0448|[Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|for loop|C++
 |0450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|BST, binary tree, recursion|C++
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|greedy|C++
-|0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonous stack|C++
+|0456|[132 Pattern](https://leetcode-cn.com/problems/132-pattern/)|monotonic stack|C++
 |0459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/)|string|C++
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)|binary ops|C++
 |0465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)|dfs, recursion, array|C++
+|0469|[Convex Polygon](https://leetcode.com/problems/convex-polygon/)|math, geometry|C++
 |0470|[Implement Rand10() Using Rand7()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|random function|C++
 |0474|[Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/)|DP, matrix|C++
 |0482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/)|string|C++
@@ -368,6 +369,7 @@ This is the leetcode code track of Wendi.
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|matrix, hash|C++
 |0945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)|greedy, array|C++
 |0953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|string|C++
+|0962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)|monotonic stack, array|C++
 |0973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)|set, `nth_element`|C++
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|map, string|C++
 |0989|[Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|array integer|C++
@@ -420,7 +422,7 @@ This is the leetcode code track of Wendi.
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|greedy, rolling|C++
 |1428|[Leftmost Column with at Least a One](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/)|matrix, binary search|C++
-|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonous stack, double pointer|C++
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|monotonic stack, double pointer|C++
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|`XOR`, hash, truble pointer|C++
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|DP, matrix, prefix sum|C++
 |1462|[Course Schedule IV](https://leetcode-cn.com/problems/course-schedule-iv/)|topological sort|C++
@@ -464,7 +466,7 @@ This is the leetcode code track of Wendi.
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)|binary tree, dfs|C++
 |2098|[Subsequence of Size K With the Largest Even Sum](https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/)|max heap, array|C++
 |2099|[Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)|array, max heap|C++
-|2100|[Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)|array, monotonous stack, DP|C++
+|2100|[Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)|array, monotonic stack, DP|C++
 |2101|[Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)|graph, bfs|C++
 |2103|[Rings and Rods](https://leetcode.com/problems/rings-and-rods/)|string, hash|C++
 |2104|[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)|array|C++
@@ -561,13 +563,13 @@ This is the leetcode code track of Wendi.
 |2269|[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|string|C++
 |2270|[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)|prefix sum|C++
 |2271|[Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/)|interval, prefix sum|C++
-|2282|[Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/)|binary search, monotonous stack|C++
+|2282|[Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/)|binary search, monotonic stack|C++
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)|hash|C++
 |2284|[Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)|hash, max heap|C++
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|max heap, graph|C++
 |2289|[Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/)|DP|C++
 |2305|[Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)|backtrace|C++
-|2334|[Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)|subarray, monotonous stack|C++
+|2334|[Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)|subarray, monotonic stack|C++
 |2354|[Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)|bits, hash|C++
 |2369|[Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)|DP|C++
 |2370|[Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)|DP|C++
@@ -583,8 +585,8 @@ This is the leetcode code track of Wendi.
 |2955|[Number of Same-End Substrings](https://leetcode.com/problems/number-of-same-end-substrings/)|string, hash|C++
 |2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)|string, substring, hash|C++
 |3026|[Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)|prefix sum, array, subarray|C++
-|100048|[Beautiful Towers II](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-ii/)|monotonous stack|C++
-|100049|[Beautiful Towers I](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-i/)|monotonous stack|C++
+|100048|[Beautiful Towers II](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-ii/)|monotonic stack|C++
+|100049|[Beautiful Towers I](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-i/)|monotonic stack|C++
 |100142|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/contest/weekly-contest-373/problems/make-lexicographically-smallest-array-by-swapping-elements/)|array, map, set|C++
 |LCP09|[最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/)|BFS|C++
 |剑03|[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|hash|C++
