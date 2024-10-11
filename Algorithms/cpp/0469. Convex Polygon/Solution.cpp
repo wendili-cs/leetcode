@@ -17,8 +17,7 @@ public:
             product = calc_cross_product(i);
             if(product == 0) continue;
             if(greater_than_0 == 0) greater_than_0 = product > 0 ? 1 : -1;
-            if(greater_than_0*product < 0) 
-                return false; // products are not all >=0 NOR not all <= 0
+            if(greater_than_0*product < 0) return false; // products are not all >=0 NOR not all <= 0
         }
         return true;
     }
