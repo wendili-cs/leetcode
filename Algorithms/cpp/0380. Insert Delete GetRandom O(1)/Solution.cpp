@@ -1,29 +1,29 @@
 // https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 class RandomizedSet {
-public:
+private:
+    unordered_map<int, int> mp; // from value to index
     vector<int> arr;
-    unordered_map<int, int> us;
-    RandomizedSet() {
-        
-    }
-    
+public:
     bool insert(int val) {
-        if(us.find(val) != us.end()) return false;
-        arr.push_back(val);
-        us[val] = arr.size() - 1;
-        return true;
+        if(mp.find(val) == mp.end()){
+            arr.push_back(val);
+            mp[val] = arr.size() - 1;
+            return true;
+        }
+        return false;
     }
     
     bool remove(int val) {
-        if(us.find(val) == us.end()) return false;
-        int idx = us[val];
-        int last_ele = arr.back();
-        arr.pop_back();
-        arr[idx] = last_ele;
-        us[last_ele] = idx;
-        us.erase(val);
-        return true;
+        if(mp.find(val) != mp.end()){
+            // 和最后一个元素交换，更新mp，再pop back
+            swap(arr.back(), arr[mp[val]]);
+            mp[arr[mp[val]]] = mp[val];
+            mp.erase(val);
+            arr.pop_back();
+            return true;
+        }
+        return false;
     }
     
     int getRandom() {

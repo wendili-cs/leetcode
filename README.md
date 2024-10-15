@@ -306,6 +306,7 @@ This is the leetcode code track of Wendi.
 |0611|[Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/)|double pointer|C++
 |0616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/)|string|C++
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)|binary tree|C++
+|0621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|array, math|C++
 |0628|[Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|math|C++
 |0629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|DP, array|C++
 |0630|[Course Schedule III](https://leetcode-cn.com/problems/course-schedule-iii/)|greedy, heap|C++

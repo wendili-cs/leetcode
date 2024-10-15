@@ -3,26 +3,27 @@
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
-        function<void(int, int, int)> backtrack;
         vector<string> res;
-        string temp;
-        backtrack = [&](int i, int l, int r) -> void {
-            if(i == 2*n) {
-                res.push_back(temp);
+        string tmp;
+        function<void(int, int, int)> backtrack;
+        backtrack = [&](int pos, int x, int y) -> void {
+            // pos < n*2, x是正括号个数, y反括号个数
+            if(pos == n*2){
+                res.push_back(tmp);
                 return;
             }
-            if(l > 0) {
-                temp.push_back('(');
-                backtrack(i + 1, l - 1, r);
-                temp.pop_back();
+            if(x > y){
+                tmp.push_back(')');
+                backtrack(pos + 1, x, y + 1);
+                tmp.pop_back();
             }
-            if(r > 0 && r > l) {
-                temp.push_back(')');
-                backtrack(i + 1, l, r - 1);
-                temp.pop_back();
+            if(x < n){
+                tmp.push_back('(');
+                backtrack(pos + 1, x + 1, y);
+                tmp.pop_back();
             }
         };
-        backtrack(0, n, n);
+        backtrack(0, 0, 0);
         return res;
     }
 };
