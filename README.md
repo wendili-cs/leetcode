@@ -298,7 +298,7 @@ This is the leetcode code track of Wendi.
 |0554|[Brick Wall](https://leetcode-cn.com/problems/brick-wall/)|hash, counter|C++
 |0556|[Next Greater Element III](https://leetcode-cn.com/problems/next-greater-element-iii/)|double pointer, ``#0031``|C++
 |0557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|string|Java
-|0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++
+|0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)|hash|C++, C#
 |0565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|simuation, array|C++
 |0567|[Permutation in String](https://leetcode-cn.com/problems/permutation-in-string/)|string, counter|C++
 |0593|[Valid Square](https://leetcode.com/problems/valid-square/)|math|C++
