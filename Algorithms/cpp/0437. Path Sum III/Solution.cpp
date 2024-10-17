@@ -1,4 +1,5 @@
 // https://leetcode-cn.com/problems/path-sum-iii/
+// https://leetcode.com/problems/path-sum-iii/
 
 /**
  * Definition for a binary tree node.
@@ -14,19 +15,24 @@
 class Solution {
 public:
     int pathSum(TreeNode* root, int targetSum) {
+        // 访问到一个node的时候，v2n里面存储的是这个node的上面祖先的{前缀和-这个值的祖先节点有多少个}
+        // 比如一条从祖先到后辈的链：3 - 3 - 5，访问到5的时候，当前prefix sum=11
+        // 我们已有：mp[3] = 1, mp[6] = 1
+        // 所以如果要找targetSum=8,只用找mp[11 - 8] = mp[3] = 1
         int res = 0;
-        unordered_map<int, int> umap; // 值-->这个值节点的个数
-        umap[0] = 1; // 什么node都不加的时候
-        function<int(TreeNode*, int)> dfs;
-        dfs = [&](TreeNode* node, int pre_sum) -> int {
-            if(!node) return 0;
-            pre_sum += node->val;
-            int ret = umap[pre_sum - targetSum];
-            umap[pre_sum]++;
-            ret += dfs(node->left, pre_sum) + dfs(node->right, pre_sum);
-            umap[pre_sum]--;
-            return ret;
+        unordered_map<long, int> mp;
+        mp[0] = 1;
+        function<void(TreeNode*, long)> dfs;
+        dfs = [&](TreeNode* node, long prefix_sum) -> void {
+            if(!node) return;
+            prefix_sum += node->val;
+            res += mp[prefix_sum - targetSum];
+            mp[prefix_sum]++;
+            dfs(node->left, prefix_sum);
+            dfs(node->right, prefix_sum);
+            mp[prefix_sum]--;
         };
-        return dfs(root, 0);
+        dfs(root, 0);
+        return res;
     }
 };
