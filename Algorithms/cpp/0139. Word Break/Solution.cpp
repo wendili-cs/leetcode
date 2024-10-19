@@ -1,4 +1,5 @@
 // https://leetcode-cn.com/problems/word-break/
+// https://leetcode.com/problems/word-break/
 
 class Solution {
 public:
