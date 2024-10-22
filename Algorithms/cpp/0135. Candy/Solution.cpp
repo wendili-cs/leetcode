@@ -5,20 +5,18 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        int len = ratings.size();
-        if(len == 1) return 1;
-        vector<int> candies(len, 1);
-        for(int i = 1; i < len; i++){
-            if(ratings[i] > ratings[i - 1]) candies[i] = candies[i - 1] + 1;
-            else candies[i] = 1;
+        int n = ratings.size();
+        if(n == 1) return 1;
+        vector<int> candies(n);
+        for(int i = 0; i < n; i++){
+            // 如果我(i)比我前面的大，我的candy比它多1
+            if(i > 0 && ratings[i - 1] < ratings[i]) candies[i] = candies[i - 1] + 1; 
+            else candies[i] = 1; // 否则给最少值（第一个也给最小值）
         }
-        for(int i = len - 2; i >= 0; i--){
-            if(ratings[i] > ratings[i + 1]) candies[i] = max(candies[i + 1] + 1, candies[i]);
+        for(int i = n - 2; i >= 0; i--){
+            // 如果我(i)比我后面的大，我的candy要保证比它多1
+            if(ratings[i] > ratings[i + 1]) candies[i] = max(candies[i], candies[i + 1] + 1);
         }
-        int sum = 0;
-        for(const auto& t:candies){
-            sum += t;
-        }
-        return sum;
+        return accumulate(candies.begin(), candies.end(), 0); // 计算总和就可以
     }
 };
