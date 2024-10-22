@@ -1,32 +1,35 @@
 // https://leetcode-cn.com/problems/spiral-matrix/
+// https://leetcode.com/problems/spiral-matrix/description/
 
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int left = 0, right = matrix[0].size() - 1, top = 0, bottom = matrix.size() - 1;
-        int num_elem = (right + 1) * (bottom + 1);
+        int nums = matrix.size()*matrix[0].size(); // 还剩下多少个元素要遍历
         vector<int> res;
-        while(num_elem >= 1){
-            for(int i = left; i <= right && num_elem >= 1; i++){
-                res.push_back(matrix[top][i]);
-                num_elem--;
+        while(nums > 0){
+            for(int j = left; j <= right && nums > 0; j++){ 
+                // 右走j++，此时一定在matrix[top][j]
+                res.push_back(matrix[top][j]);
+                nums--;
             }
-            top++;
-            for(int i = top; i <= bottom && num_elem >= 1; i++){
+            top++; // 走完top这一行
+            for(int i = top; i <= bottom && nums > 0; i++){
+                // 下走i++，此时一定在matrix[i][right]
                 res.push_back(matrix[i][right]);
-                num_elem--;
+                nums--;
             }
-            right--;
-            for(int i = right; i >= left && num_elem >= 1; i--){
-                res.push_back(matrix[bottom][i]);
-                num_elem--;
+            right--; // 走完right这一列
+            for(int j = right; j >= left && nums > 0; j--){
+                res.push_back(matrix[bottom][j]);
+                nums--;
             }
-            bottom--;
-            for(int i = bottom; i >= top && num_elem >= 1; i--){
+            bottom--; // 走完bottom这一行
+            for(int i = bottom; i >= top && nums > 0; i--){
                 res.push_back(matrix[i][left]);
-                num_elem--;
+                nums--;
             }
-            left++;
+            left++; // 走完left这一列
         }
         return res;
     }

@@ -8,15 +8,17 @@ public:
         for(int &num:nums) {
             cnter[num]++;
         }
-        priority_queue<pair<int, int>> pq;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq; // 小顶堆
         for(auto it:cnter) {
             pq.emplace(it.second, it.first);
+            if(pq.size() > k) pq.pop(); // 最多存k个元素，保证push新元素时，其复杂度不大于O(log k)
         }
         vector<int> res;
-        for(int i = 0; i < k; i++){
+        while(!pq.empty()){
             res.push_back(pq.top().second);
             pq.pop();
         }
+        reverse(res.begin(), res.end());
         return res;
     }
 };

@@ -193,6 +193,7 @@ This is the leetcode code track of Wendi.
 |0260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/)|binary ops|C++
 |0263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/)|`easy`|C++
 |0264|[Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)|trible pointer, math|C++
+|0268|[Missing Number](https://leetcode.com/problems/missing-number/)|hash, `XOR`|C++
 |0269|[Alien Dictionary](https://leetcode-cn.com/problems/alien-dictionary/)|topological sort|C++
 |0273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/)|string, recursion|C++
 |0274|[H-Index](https://leetcode-cn.com/problems/h-index/)|sort, count|C++
@@ -203,6 +204,7 @@ This is the leetcode code track of Wendi.
 |0291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|string, hash, recursion, dfs|C++
 |0295|[Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)|insert (normal), heap (ingenious)|C++
 |0296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|sort, matrix|C++
+|0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|string, binary tree, stringstream, dfs, recursion|C++
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|binary tree, recursion|C++
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|DP, greedy|C++
 |0301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|string, BFS, recursion|C++
