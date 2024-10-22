@@ -3,11 +3,14 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        stack<int> stk;
-        for(int i = 0; i < s.length(); i++){
-            if(s[i] == '(') stk.push(i + 1);
-            else if(stk.empty() || stk.top() < 0) stk.push(-(i + 1));
-            else stk.pop();
+        stack<char> stk;
+        for(char c:s){
+            if(c == ')' && !stk.empty() && stk.top() == '('){ // 只有上一个是"(",下一个是")"，才会抵消
+                stk.pop();
+            }
+            else{
+                stk.push(c); // 不然就把c加入stack
+            }
         }
         return stk.size();
     }
