@@ -126,7 +126,7 @@ This is the leetcode code track of Wendi.
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|recursion, binary tree|C++
 |0125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|string|C++
 |0127|[Word Ladder](https://leetcode-cn.com/problems/word-ladder/)|BFS, graph|C++
-|0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|greedy, hash|C++
+|0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|greedy, hash|C++, C#
 |0129|[Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)|recursion, binary tree|C++
 |0130|[Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/)|recursion, matrix|C++
 |0131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)|recursion|C++
@@ -328,7 +328,7 @@ This is the leetcode code track of Wendi.
 |0681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/)|greedy|C++
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java, C++
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
-|0694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|matrix, recursion, hash|C++
+|0694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|matrix, recursion, hash|C++, C#
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)|recursion|C++
 |0696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|string|C++
 |0697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|counter, hash|C++
@@ -580,6 +580,7 @@ This is the leetcode code track of Wendi.
 |2370|[Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)|DP|C++
 |2375|[Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)|string, greedy|C++
 |2416|[Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)|prefix tree, string, array|C++
+|2422|[Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/)|array, two pointers|C++, C#
 |2502|[Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/)|array, simulation, hash|C++
 |2572|[Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)|bit, DP|C++
 |2864|[Maximum Odd Binary Number](https://leetcode.com/contest/weekly-contest-364/problems/maximum-odd-binary-number/)|string|C++
