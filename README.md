@@ -583,6 +583,7 @@ This is the leetcode code track of Wendi.
 |2422|[Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/)|array, two pointers|C++, C#
 |2502|[Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/)|array, simulation, hash|C++
 |2572|[Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)|bit, DP|C++
+|2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)|math (素数筛), dp, array|C++
 |2864|[Maximum Odd Binary Number](https://leetcode.com/contest/weekly-contest-364/problems/maximum-odd-binary-number/)|string|C++
 |2894|[Divisible and Non-divisible Sums Difference](https://leetcode.com/contest/weekly-contest-366/problems/divisible-and-non-divisible-sums-difference/)|math|C++
 |2895|[Minimum Processing Time](https://leetcode.com/contest/weekly-contest-366/problems/minimum-processing-time/)|array|C++
