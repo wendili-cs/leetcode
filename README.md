@@ -593,6 +593,7 @@ This is the leetcode code track of Wendi.
 |2955|[Number of Same-End Substrings](https://leetcode.com/problems/number-of-same-end-substrings/)|string, hash|C++
 |2981|[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/)|string, substring, hash|C++
 |3026|[Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)|prefix sum, array, subarray|C++
+|3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/)|bit ops, math|C++
 |100048|[Beautiful Towers II](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-ii/)|monotonic stack|C++
 |100049|[Beautiful Towers I](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-i/)|monotonic stack|C++
 |100142|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/contest/weekly-contest-373/problems/make-lexicographically-smallest-array-by-swapping-elements/)|array, map, set|C++
