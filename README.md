@@ -582,6 +582,7 @@ This is the leetcode code track of Wendi.
 |2416|[Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)|prefix tree, string, array|C++
 |2422|[Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/)|array, two pointers|C++, C#
 |2502|[Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/)|array, simulation, hash|C++
+|2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|array, binary search|C++
 |2572|[Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)|bit, DP|C++
 |2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)|math (素数筛), dp, array|C++
 |2864|[Maximum Odd Binary Number](https://leetcode.com/contest/weekly-contest-364/problems/maximum-odd-binary-number/)|string|C++
