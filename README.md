@@ -393,6 +393,7 @@ This is the leetcode code track of Wendi.
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|greedy|C++
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|disjoint set, string|C++
 |1062|[Longest Repeating Substring](https://leetcode-cn.com/problems/longest-repeating-substring/)|string, hash, binary search|C++
+|1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)|hash, matrix|C++
 |1073|[Adding Two Negabinary Numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)|array ops|C++
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/)|matrix, max heap, BFS|C++
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|binary tree, recursion|C++
