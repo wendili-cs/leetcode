@@ -593,6 +593,7 @@ This is the leetcode code track of Wendi.
 |2895|[Minimum Processing Time](https://leetcode.com/contest/weekly-contest-366/problems/minimum-processing-time/)|array|C++
 |2897|[Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/contest/weekly-contest-366/problems/apply-operations-on-array-to-maximize-sum-of-squares/)|bit, math|C++
 |2905|[Find Indices With Index and Value Difference II](https://leetcode.com/contest/weekly-contest-367/problems/find-indices-with-index-and-value-difference-ii/)|set, array|C++
+|2924|[Find Champion II](https://leetcode.com/problems/find-champion-ii/)|graph|C++
 |2925|[Maximum Score After Applying Operations on a Tree](https://leetcode.com/contest/weekly-contest-370/problems/maximum-score-after-applying-operations-on-a-tree/)|tree, topology|C++
 |2933|[High-Access Employees](https://leetcode.com/contest/weekly-contest-371/problems/high-access-employees/)|string, array|C++
 |2955|[Number of Same-End Substrings](https://leetcode.com/problems/number-of-same-end-substrings/)|string, hash|C++
