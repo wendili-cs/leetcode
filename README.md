@@ -345,6 +345,7 @@ This is the leetcode code track of Wendi.
 |0763|[Partition Labels](https://leetcode-cn.com/problems/partition-labels/)|string, `unordered_map`|C++
 |0765|[Couples Holding Hands](https://leetcode-cn.com/problems/couples-holding-hands/)|disjoint set|C++
 |0767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|map, string|C++
+|0769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|math, array|Java
 |0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|BFS, matrix|C++
 |0781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/)|counter (hash)|C++
 |0787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)|DP, graph|Java
