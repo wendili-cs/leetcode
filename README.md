@@ -427,6 +427,7 @@ This is the leetcode code track of Wendi.
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|string, hash|C++
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)|set, map, interval ops, `priority queue`, greedy|C++
 |1388|[Pizza With 3n Slices](https://leetcode-cn.com/problems/pizza-with-3n-slices/)|DP, greedy|C++
+|1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|string, array|Java
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/)|找规律|C++
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|greedy, rolling|C++
 |1428|[Leftmost Column with at Least a One](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/)|matrix, binary search|C++
