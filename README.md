@@ -609,6 +609,7 @@ This is the leetcode code track of Wendi.
 |3026|[Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)|prefix sum, array, subarray|C++
 |3042|[Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)|string, array|C++
 |3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/)|bit ops, math|C++
+|3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)|string, hash|C++
 |3243|[Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)|BFS, graph|C++
 |100048|[Beautiful Towers II](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-ii/)|monotonic stack|C++
 |100049|[Beautiful Towers I](https://leetcode.com/contest/weekly-contest-364/problems/beautiful-towers-i/)|monotonic stack|C++
