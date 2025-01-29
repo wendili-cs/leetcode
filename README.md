@@ -327,6 +327,7 @@ This is the leetcode code track of Wendi.
 |0679|[24 Game](https://leetcode-cn.com/problems/24-game/)|back track, recursion|C++
 |0680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)|double pointer|C++
 |0681|[Next Closest Time](https://leetcode-cn.com/problems/next-closest-time/)|greedy|C++
+|0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection)|graph, union find (disjoint set)|Java
 |0690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/)|recursion, hash|Java, C++
 |0692|[Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/)|hash|C++
 |0694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|matrix, recursion, hash|C++, C#
@@ -598,6 +599,7 @@ This is the leetcode code track of Wendi.
 |2563|[Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)|array, binary search|C++
 |2572|[Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)|bit, DP|C++
 |2601|[Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)|math (素数筛), dp, array|C++
+|2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor)|bit ops, array|Java
 |2864|[Maximum Odd Binary Number](https://leetcode.com/contest/weekly-contest-364/problems/maximum-odd-binary-number/)|string|C++
 |2894|[Divisible and Non-divisible Sums Difference](https://leetcode.com/contest/weekly-contest-366/problems/divisible-and-non-divisible-sums-difference/)|math|C++
 |2895|[Minimum Processing Time](https://leetcode.com/contest/weekly-contest-366/problems/minimum-processing-time/)|array|C++
