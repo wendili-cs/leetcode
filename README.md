@@ -463,6 +463,7 @@ This is the leetcode code track of Wendi.
 |1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)|traverse|C++
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|string, two pointer|C++
 |1787|[Make the XOR of All Segments Equal to Zero](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)|`XOR`, hash, DP|C++
+|1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum)|array|Java
 |1818|[Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)|binary search, greedy|C++
 |1822|[Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)||C++
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)|math|C++
