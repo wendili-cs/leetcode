@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/
+
 class Solution {
 public:
     int evenNumberBitwiseORs(vector<int>& nums) {
